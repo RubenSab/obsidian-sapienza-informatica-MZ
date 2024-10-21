@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path: \"Attività/Chess\"",
+      "color": {
+        "a": 1,
+        "rgb": 14112567
+      }
+    },
+    {
+      "query": "path: \"Attività/Python learning\"",
+      "color": {
+        "a": 1,
+        "rgb": 7001692
+      }
+    },
+    {
+      "query": "path: \"Creazioni/Giochi da tavolo\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14071388
+      }
+    },
+    {
+      "query": "path: Todo",
+      "color": {
+        "a": 1,
+        "rgb": 14701254
+      }
+    },
+    {
+      "query": "path: \"Creazioni/Python Projects\" ",
+      "color": {
+        "a": 1,
+        "rgb": 1688109
+      }
+    },
+    {
+      "query": "path:Creazioni/3D  ",
+      "color": {
+        "a": 1,
+        "rgb": 2930392
+      }
+    },
+    {
+      "query": "path: \"UNI/progettazione di sistemi digitali\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path: \"UNI/metodi matematici per l'informatica\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6082262
+      }
+    },
+    {
+      "query": "path:\"UNI/fondamenti di programmazione\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15181597
+      }
+    },
+    {
+      "query": "path: \"UNI/calcolo differenziale\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 3.20660409621157,
+  "lineSizeMultiplier": 1.92170395933059,
+  "collapse-forces": false,
+  "centerStrength": 0.419458978069687,
+  "repelStrength": 12.3395131794678,
+  "linkStrength": 0.682620759238239,
+  "linkDistance": 187,
+  "scale": 0.40847262901758224,
+  "close": true
+}

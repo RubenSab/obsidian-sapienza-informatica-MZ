@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "5a9b45b98df6cb56",
+    "type": "split",
+    "children": [
+      {
+        "id": "17e27e22c5c5d6c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9df98169b6714e48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "progettazione di sistemi digitali/algebra delle porte logiche come interpretazione dell'algebra di Boole.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "algebra delle porte logiche come interpretazione dell'algebra di Boole"
+            }
+          },
+          {
+            "id": "ca6b6c25221b07e0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6428813b4471d9bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "02fcd87bf8d23f0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b36e9a938a7c537",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c7a16431bacee37e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2df7f2cb9d43cc32",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b81d9572839438c6",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "chrome",
+              "title": "Surfing Tab Tree"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4fc7b8b1100391d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99a3b99e19797f8f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5043640136719
+  },
+  "right": {
+    "id": "26b38658cac3fe47",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec587cf2e56643fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f883af87b9a38b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ieee",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3a232b0a94f1db1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "news/2024-10-17.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-10-17"
+            }
+          },
+          {
+            "id": "e6aadb8e9466a011",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "55c0f2f41102c182",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "news/2024-10-17.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-10-17"
+            }
+          },
+          {
+            "id": "c608bbb87b84c2b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "news/2024-10-17.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "virgola mobile",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-10-17"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "99a3b99e19797f8f",
+  "lastOpenFiles": [
+    "progettazione di sistemi digitali/algebra delle porte logiche come interpretazione dell'algebra di Boole.md",
+    "Uni.md",
+    "progettazione di sistemi digitali/esercizi/verificare l'identità.md",
+    "progettazione di sistemi digitali/esercizi/Uni.md",
+    "progettazione di sistemi digitali/esercizi/sommare F7A0 e FB60 che rappresentano valori IEEE 754 HP.md",
+    "progettazione di sistemi digitali/esercizi/si scriva -45 in CA2 a 7 bit e poi si sottragga 21.md",
+    "progettazione di sistemi digitali/esercizi/si converta in base 4 il numero 231(10), si converta poi in base 16 e si sommi a 34A(16).md",
+    "progettazione di sistemi digitali/esercizi/Scheda di esercizi n. 3.md",
+    "progettazione di sistemi digitali/esercizi/eseguire la complementare.md",
+    "circuito POS AND-TO-OR all-NOR.md",
+    "progettazione di sistemi digitali/circuito SOP AND-TO-OR all-NOR.md",
+    "progettazione di sistemi digitali/circuito SOP AND-TO-OR all-NAND.md",
+    "progettazione di sistemi digitali/circuito POS AND-TO-OR all-NOR.md",
+    "circuito SOP AND-TO-OR all-NOR.md",
+    "verificare l'identità.md",
+    "circuito SOP AND-TO-OR all-NAND.md",
+    "interdisciplinare/algebra di Boole.md",
+    "eseguire la complementare.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "sommare F7A0 e FB60 che rappresentano valori IEEE 754 HP.md",
+    "progettazione di sistemi digitali/rappresentazione o codifica di numeri con la virgola.md",
+    "si converta in base 4 il numero 231(10), si converta poi in base 16 e si sommi a 34A(16).md",
+    "si scriva -45 in CA2 a 7 bit e poi si sottragga 21.md",
+    "progettazione di sistemi digitali/esercizi/stendere la tavola di verità e trovare le espressioni canoniche SOP e POS.md",
+    "calcolo differenziale/definizione di limite e teoremi.md",
+    "calcolo differenziale/esercizi",
+    "progettazione di sistemi digitali/logic gates.png",
+    "progettazione di sistemi digitali/esercizi",
+    "progettazione di sistemi digitali",
+    "metodi matematici per l'informatica/esercizi",
+    "metodi matematici per l'informatica",
+    "interdisciplinare",
+    "fondamenti di programmazione",
+    "calcolo differenziale",
+    "UNI/progettazione di sistemi digitali/esercizi",
+    "UNI/progettazione di sistemi digitali/logic gates.png",
+    "UNI/metodi matematici per l'informatica/esercizi"
+  ]
+}

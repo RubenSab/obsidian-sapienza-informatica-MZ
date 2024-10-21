@@ -1,0 +1,2 @@
+- [[python di base]]
+- [[comandi terminale Linux]]

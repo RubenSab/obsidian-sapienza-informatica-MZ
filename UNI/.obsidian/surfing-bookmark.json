@@ -1,0 +1,29 @@
+{
+  "bookmarks": [
+    {
+      "id": "468810371",
+      "name": "chatGPT",
+      "url": "https://chat.openai.com/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1704362520000,
+      "modified": 1704728760000
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    },
+    {
+      "value": "Bookmarks",
+      "text": "Bookmarks",
+      "label": "Bookmarks"
+    }
+  ]
+}

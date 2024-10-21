@@ -1,0 +1,3 @@
+- Estensione dei numeri razionali, sono tutti i punti "etichettati" sulla retta dei numeri. Sono infinitamente più numerosi dei numeri naturali.
+- Se prendiamo 2 numeri razionali diversi esiste almeno un numero razionale tra essi.
+- I numeri reali a-periodici (irrazionali) hanno "etichette" inconoscibili ma possono essere approssimati da numeri razionali nel grado di precisione (finito) richiesto.

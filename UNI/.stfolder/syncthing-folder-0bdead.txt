@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: brainfolder
+created: 2024-09-19T13:09:21+02:00

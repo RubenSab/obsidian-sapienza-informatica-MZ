@@ -1,0 +1,14 @@
+{
+  "clockFormat": "hh:mm A",
+  "updateIntervalMilliseconds": "1000",
+  "isUTC": false,
+  "modifiedKeyName": "updated_at",
+  "modifiedKeyFormat": "YYYY-MM-DD[T]HH:mm:ss.SSSZ",
+  "enableClock": true,
+  "enableModifiedKeyUpdate": false,
+  "useCustomFrontmatterHandlingSolution": false,
+  "updateIntervalFrontmatterMinutes": 1,
+  "editDurationPath": "edited_seconds",
+  "enableEditDurationKey": false,
+  "nonTypingEditingTimePercentage": 22
+}

@@ -1,0 +1,715 @@
+{
+  "nodePositions": [
+    {
+      "id": "Attività/AI learning/Ollama cheatsheet.md",
+      "x": -1056.9102783203125,
+      "y": -1522.202392578125
+    },
+    {
+      "id": "Attività/Chess/Random notes/Alapin Sicilian.md",
+      "x": -1340.2799072265625,
+      "y": -1500.9478759765625
+    },
+    {
+      "id": "Attività/Chess/Random notes/Italian Game.md",
+      "x": -562.069091796875,
+      "y": -1265.758544921875
+    },
+    {
+      "id": "Attività/Chess/Random notes/Vienna game.md",
+      "x": 1550.1116943359375,
+      "y": -397.8760681152344
+    },
+    {
+      "id": "King Gambit (2...f4)",
+      "x": 1479.109375,
+      "y": -152.45631408691406
+    },
+    {
+      "id": "Ruy Lopez",
+      "x": 1319.549072265625,
+      "y": -310.20196533203125
+    },
+    {
+      "id": "Berlin Defence (2...Nf6)",
+      "x": 1640.313720703125,
+      "y": -635.4510498046875
+    },
+    {
+      "id": "Max Lange Defence (2...Nc6)",
+      "x": 1387.8409423828125,
+      "y": -574.5573120117188
+    },
+    {
+      "id": "2...Bb4",
+      "x": 1795.4996337890625,
+      "y": -459.445068359375
+    },
+    {
+      "id": "2...Bc5",
+      "x": 1719.845947265625,
+      "y": -227.74649047851562
+    },
+    {
+      "id": "Attività/Chess/Repertoire/Black/against e4/French (Fort Knox).md",
+      "x": 1607.1702880859375,
+      "y": -1095.15185546875
+    },
+    {
+      "id": "Attività/Chess/Repertoire/White/Italian Game.md",
+      "x": 1869.4759521484375,
+      "y": -992.3151245117188
+    },
+    {
+      "id": "Attività/Chess/Repertoire/White/Ponziani.md",
+      "x": -761.9332885742188,
+      "y": -1437.68505859375
+    },
+    {
+      "id": "Attività/Creazioni/Giochi da tavolo/36C/36C 1.md",
+      "x": -869.9966430664062,
+      "y": -1752.679443359375
+    },
+    {
+      "id": "Attività/Creazioni/Giochi da tavolo/36C/36C 2.md",
+      "x": 2009.4429931640625,
+      "y": -63.96923065185547
+    },
+    {
+      "id": "Attività/Creazioni/Giochi da tavolo/36C/36C 3.md",
+      "x": 1139.697265625,
+      "y": 225.55178833007812
+    },
+    {
+      "id": "Attività/Creazioni/Giochi da tavolo/Castle game/Castle game.md",
+      "x": 1947.4300537109375,
+      "y": 324.56689453125
+    },
+    {
+      "id": "Attività/Creazioni/Giochi da tavolo/Castle game/annessione.md",
+      "x": 1300.70703125,
+      "y": 582.4722290039062
+    },
+    {
+      "id": "Attività/Creazioni/Giochi da tavolo/Castle game/assedio.md",
+      "x": 1454.87353515625,
+      "y": 388.82049560546875
+    },
+    {
+      "id": "Attività/Creazioni/Giochi da tavolo/Castle game/attacchi.md",
+      "x": 1550.9036865234375,
+      "y": 607.6301879882812
+    },
+    {
+      "id": "Attività/Creazioni/Giochi da tavolo/Castle game/attacco diretto.md",
+      "x": 1713.0394287109375,
+      "y": 797.7907104492188
+    },
+    {
+      "id": "Attività/Creazioni/Giochi da tavolo/Castle game/idee.md",
+      "x": 1017.3510131835938,
+      "y": -281.4945373535156
+    },
+    {
+      "id": "Attività/Creazioni/Giochi da tavolo/Castle game/occupazione.md",
+      "x": 1473.3250732421875,
+      "y": 833.4590454101562
+    },
+    {
+      "id": "Attività/Creazioni/Giochi da tavolo/Castle game/pezzi.md",
+      "x": 1763.265380859375,
+      "y": 183.85365295410156
+    },
+    {
+      "id": "Attività/Creazioni/Giochi da tavolo/Castle game/sudditi.md",
+      "x": 1810.035400390625,
+      "y": 538.1465454101562
+    },
+    {
+      "id": "Attività/Creazioni/Python Projects/Average shadow area of a cube problem.md",
+      "x": 997.4876098632812,
+      "y": -698.2824096679688
+    },
+    {
+      "id": "matrix rotation",
+      "x": 1255.4310302734375,
+      "y": -978.90966796875
+    },
+    {
+      "id": "Attività/Creazioni/Python Projects/Build Your Dictionary.md",
+      "x": 446.15948486328125,
+      "y": -1168.966064453125
+    },
+    {
+      "id": "ui",
+      "x": 805.8847045898438,
+      "y": -1408.3348388671875
+    },
+    {
+      "id": "Attività/Creazioni/Python Projects/Chess Archive Maker.md",
+      "x": 11.181428909301758,
+      "y": -1701.56591796875
+    },
+    {
+      "id": "python dictionaries",
+      "x": 138.67933654785156,
+      "y": -1899.5010986328125
+    },
+    {
+      "id": "Attività/Creazioni/Python Projects/Custom 3D engine.md",
+      "x": 1055.3890380859375,
+      "y": -1213.839599609375
+    },
+    {
+      "id": "3D projections",
+      "x": 929.684814453125,
+      "y": -1034.9937744140625
+    },
+    {
+      "id": "SVG turtle library",
+      "x": 1108.7919921875,
+      "y": -1473.9571533203125
+    },
+    {
+      "id": "optimization",
+      "x": 1283.0797119140625,
+      "y": -1341.2293701171875
+    },
+    {
+      "id": "Attività/Creazioni/Python Projects/Obsidian Graph Stats.md",
+      "x": 575.880615234375,
+      "y": -1411.7237548828125
+    },
+    {
+      "id": "Attività/Lezioni Carlo/Numeri decimali e frazioni.md",
+      "x": -599.6661987304688,
+      "y": -1841.5162353515625
+    },
+    {
+      "id": "Attività/Python learning/3D vectors handling.md",
+      "x": 1111.1944580078125,
+      "y": -905.9575805664062
+    },
+    {
+      "id": "Attività/Python learning/PGN format parsing and writing.md",
+      "x": -124.98388671875,
+      "y": -1915.2352294921875
+    },
+    {
+      "id": "Attività/Python learning/Scrape dynamic web pages with Selenium.md",
+      "x": -170.88648986816406,
+      "y": -1191.9296875
+    },
+    {
+      "id": "Attività/Python learning/Sympy docs (prime numbers).md",
+      "x": 527.2439575195312,
+      "y": -1961.0823974609375
+    },
+    {
+      "id": "Attività/Python learning/chess board rendering.md",
+      "x": -253.2573699951172,
+      "y": -1736.7427978515625
+    },
+    {
+      "id": "Attività/Python learning/data plotting.md",
+      "x": 652.0272216796875,
+      "y": -1661.397216796875
+    },
+    {
+      "id": "Attività/Python learning/file handling.md",
+      "x": 725.9810791015625,
+      "y": -1180.0665283203125
+    },
+    {
+      "id": "Attività/Python learning/json handling.md",
+      "x": 309.1268615722656,
+      "y": -1546.704833984375
+    },
+    {
+      "id": "Attività/Python learning/language translation.md",
+      "x": 402.61328125,
+      "y": -945.4185180664062
+    },
+    {
+      "id": "Attività/Python learning/markdown formatting.md",
+      "x": 255.7522430419922,
+      "y": -1297.31494140625
+    },
+    {
+      "id": "Attività/Python learning/python  casing conventions.md",
+      "x": 1579.0223388671875,
+      "y": 1226.4366455078125
+    },
+    {
+      "id": "Attività/Python learning/python trees.md",
+      "x": -176.83987426757812,
+      "y": -1541.352294921875
+    },
+    {
+      "id": "Attività/Python learning/python virtual environments.md",
+      "x": 1255.2056884765625,
+      "y": 1654.524658203125
+    },
+    {
+      "id": "Attività/Python learning/web scraping.md",
+      "x": 88.80999755859375,
+      "y": -1158.2301025390625
+    },
+    {
+      "id": "TODO website + blog.md",
+      "x": 388.6635437011719,
+      "y": 219.38584899902344
+    },
+    {
+      "id": "TODO/TODO 3D.md",
+      "x": 737.0599975585938,
+      "y": 128.0102081298828
+    },
+    {
+      "id": "TODO/TODO Chess.md",
+      "x": 754.0460815429688,
+      "y": -58.063560485839844
+    },
+    {
+      "id": "TODO/TODO Python learning.md",
+      "x": 600.3626098632812,
+      "y": 240.2225799560547
+    },
+    {
+      "id": "TODO/TODO coding projects.md",
+      "x": 684.0317993164062,
+      "y": -779.6324462890625
+    },
+    {
+      "id": "TODO/TODO intrattenimento.md",
+      "x": 611.2345581054688,
+      "y": -222.85256958007812
+    },
+    {
+      "id": "TODO/TODO.md",
+      "x": 488.4340515136719,
+      "y": -4.659276962280273
+    },
+    {
+      "id": "UNI/Uni.md",
+      "x": -84.7320785522461,
+      "y": 565.6423950195312
+    },
+    {
+      "id": "UNI/calcolo differenziale/calcolo differenziale.md",
+      "x": -223.84500122070312,
+      "y": 852.3787841796875
+    },
+    {
+      "id": "UNI/calcolo differenziale/numeri interi relativi.md",
+      "x": -653.9961547851562,
+      "y": 1426.61083984375
+    },
+    {
+      "id": "UNI/calcolo differenziale/numeri naturali.md",
+      "x": -424.53839111328125,
+      "y": 1153.712158203125
+    },
+    {
+      "id": "UNI/calcolo differenziale/numeri razionali.md",
+      "x": -770.9027709960938,
+      "y": 1681.4971923828125
+    },
+    {
+      "id": "UNI/calcolo differenziale/numeri reali.md",
+      "x": -999.7293701171875,
+      "y": 1698.5172119140625
+    },
+    {
+      "id": "UNI/fondamenti di programmazione/anaconda.md",
+      "x": -166.5907745361328,
+      "y": 1425.9884033203125
+    },
+    {
+      "id": "miniconda",
+      "x": -382.14715576171875,
+      "y": 1514.80859375
+    },
+    {
+      "id": "UNI/fondamenti di programmazione/comandi.md",
+      "x": 821.1633911132812,
+      "y": 1181.4012451171875
+    },
+    {
+      "id": "cd",
+      "x": 762.6723022460938,
+      "y": 903.8200073242188
+    },
+    {
+      "id": "ls",
+      "x": 776.0772705078125,
+      "y": 1500.1485595703125
+    },
+    {
+      "id": "rm",
+      "x": 927.1805419921875,
+      "y": 1457.4771728515625
+    },
+    {
+      "id": "mkdir",
+      "x": 1053.0909423828125,
+      "y": 1026.155029296875
+    },
+    {
+      "id": "touch",
+      "x": 642.185302734375,
+      "y": 1410.4920654296875
+    },
+    {
+      "id": "ssh",
+      "x": 1110.02392578125,
+      "y": 1188.8470458984375
+    },
+    {
+      "id": "which",
+      "x": 1046.958740234375,
+      "y": 1342.43212890625
+    },
+    {
+      "id": "chmod",
+      "x": 613.525634765625,
+      "y": 1056.5496826171875
+    },
+    {
+      "id": "pwd",
+      "x": 556.7744140625,
+      "y": 1251.3721923828125
+    },
+    {
+      "id": "package manager",
+      "x": 930.5062866210938,
+      "y": 904.9400024414062
+    },
+    {
+      "id": "UNI/fondamenti di programmazione/debugging.md",
+      "x": -52.5509033203125,
+      "y": 1933.7379150390625
+    },
+    {
+      "id": "breakpoints",
+      "x": -278.3263854980469,
+      "y": 2025.3555908203125
+    },
+    {
+      "id": "updatepoints",
+      "x": 184.8019561767578,
+      "y": 1990.3800048828125
+    },
+    {
+      "id": "stop e stopinto",
+      "x": -285.169677734375,
+      "y": 1827.5384521484375
+    },
+    {
+      "id": "UNI/fondamenti di programmazione/fondamenti di programmazione.md",
+      "x": 111.01776123046875,
+      "y": 904.0516967773438
+    },
+    {
+      "id": "UNI/fondamenti di programmazione/ipython.md",
+      "x": 14.320012092590332,
+      "y": 1164.839111328125
+    },
+    {
+      "id": "UNI/fondamenti di programmazione/python di base.md",
+      "x": 97.47106170654297,
+      "y": 1363.98583984375
+    },
+    {
+      "id": "nano text editor",
+      "x": 269.3365783691406,
+      "y": 1556.8843994140625
+    },
+    {
+      "id": "UNI/fondamenti di programmazione/spyder.md",
+      "x": 59.02388000488281,
+      "y": 1682.744873046875
+    },
+    {
+      "id": "UNI/fondamenti di programmazione/terminale linux.md",
+      "x": 434.6809997558594,
+      "y": 902.26611328125
+    },
+    {
+      "id": "parser",
+      "x": 450.1542053222656,
+      "y": 656.1946411132812
+    },
+    {
+      "id": "UNI/metodi matematici per l'informatica/dimostrazione della proprietà commutativa del prodotto cartesiano rispetto all'unione.md",
+      "x": -1391.27099609375,
+      "y": 1378.96484375
+    },
+    {
+      "id": "UNI/metodi matematici per l'informatica/funzione.md",
+      "x": -1428.831298828125,
+      "y": 459.2437438964844
+    },
+    {
+      "id": "UNI/metodi matematici per l'informatica/implicazione materiale.md",
+      "x": -971.424072265625,
+      "y": 1304.3944091796875
+    },
+    {
+      "id": "UNI/metodi matematici per l'informatica/inclusione e sottoinsiemi.md",
+      "x": -1164.1033935546875,
+      "y": 924.7311401367188
+    },
+    {
+      "id": "UNI/metodi matematici per l'informatica/insieme delle parti.md",
+      "x": -1593.8857421875,
+      "y": 839.65380859375
+    },
+    {
+      "id": "UNI/metodi matematici per l'informatica/logica proposizionale.md",
+      "x": -882.9169311523438,
+      "y": 1069.0433349609375
+    },
+    {
+      "id": "UNI/metodi matematici per l'informatica/metodi matematici per l'informatica.md",
+      "x": -807.4513549804688,
+      "y": 758.4550170898438
+    },
+    {
+      "id": "induzione",
+      "x": -663.19482421875,
+      "y": 946.8175659179688
+    },
+    {
+      "id": "logica predicativa",
+      "x": -601.4695434570312,
+      "y": 679.5775146484375
+    },
+    {
+      "id": "UNI/metodi matematici per l'informatica/notazioni degli insiemi.md",
+      "x": -1476.248779296875,
+      "y": 984.425537109375
+    },
+    {
+      "id": "UNI/metodi matematici per l'informatica/operazioni fra gli insiemi.md",
+      "x": -1341.304931640625,
+      "y": 1140.422119140625
+    },
+    {
+      "id": "UNI/metodi matematici per l'informatica/proprietà delle relazioni.md",
+      "x": -992.5235595703125,
+      "y": 460.93603515625
+    },
+    {
+      "id": "UNI/metodi matematici per l'informatica/relazione.md",
+      "x": -1212.73681640625,
+      "y": 500.26507568359375
+    },
+    {
+      "id": "UNI/metodi matematici per l'informatica/teoria degli insiemi.md",
+      "x": -1333.541748046875,
+      "y": 775.56298828125
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/bus.md",
+      "x": 301.3759765625,
+      "y": -392.29248046875
+    },
+    {
+      "id": "dispositivi di ingresso e uscita, (IO)",
+      "x": 209.47933959960938,
+      "y": -134.97303771972656
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/cardinalità.md",
+      "x": -1679.5885009765625,
+      "y": 591.9240112304688
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/circuiti combinatori.md",
+      "x": -630.6455078125,
+      "y": 292.3452453613281
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/complementazione.md",
+      "x": -1072.91552734375,
+      "y": -1093.072265625
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/complemento a 1 (CA1).md",
+      "x": -1114.0555419921875,
+      "y": -794.720947265625
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/complemento a 2 (CA2).md",
+      "x": -1322.1607666015625,
+      "y": -952.2739868164062
+    },
+    {
+      "id": "unità aritmetico logica",
+      "x": -1385.0020751953125,
+      "y": -1183.92138671875
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/cpu.md",
+      "x": 92.86257934570312,
+      "y": -326.63421630859375
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/definizione di computer, architettura di von neumann.md",
+      "x": -79.77510070800781,
+      "y": -173.11386108398438
+    },
+    {
+      "id": "unità di controllo",
+      "x": -26.82352638244629,
+      "y": 58.360172271728516
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/funzioni di codifica e decodifica.md",
+      "x": -1385.990234375,
+      "y": 187.7747039794922
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/memoria.md",
+      "x": 13.569049835205078,
+      "y": -555.4127197265625
+    },
+    {
+      "id": "memoria cache",
+      "x": 198.1825714111328,
+      "y": -702.2347412109375
+    },
+    {
+      "id": "discco rigido",
+      "x": -94.39460754394531,
+      "y": -786.3731689453125
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/moduli standard.md",
+      "x": -629.5537109375,
+      "y": -414.3723449707031
+    },
+    {
+      "id": "codificatori",
+      "x": -883.0955810546875,
+      "y": -348.04327392578125
+    },
+    {
+      "id": "decodificatori",
+      "x": -385.0415344238281,
+      "y": -390.6404113769531
+    },
+    {
+      "id": "mux",
+      "x": -842.7994384765625,
+      "y": -561.655517578125
+    },
+    {
+      "id": "demux",
+      "x": -544.2694702148438,
+      "y": -190.647216796875
+    },
+    {
+      "id": "rom",
+      "x": -435.03692626953125,
+      "y": -604.915283203125
+    },
+    {
+      "id": "pla",
+      "x": -764.13134765625,
+      "y": -180.6510772705078
+    },
+    {
+      "id": "registri di memorizzazione",
+      "x": -723.4674072265625,
+      "y": -697.741455078125
+    },
+    {
+      "id": "registri contatori",
+      "x": -564.9351196289062,
+      "y": -724.5443725585938
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/modulo e segno (MS).md",
+      "x": -1365.224609375,
+      "y": -605.7617797851562
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/moltiplicazioni e divisioni per potenze della base.md",
+      "x": -1903.0517578125,
+      "y": -194.18345642089844
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/operazioni aritmetiche in base 2.md",
+      "x": -1643.5277099609375,
+      "y": -637.6361694335938
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/overflow.md",
+      "x": -1595.5360107421875,
+      "y": -953.6370239257812
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/progettazione di sistemi digitali.md",
+      "x": -481.0093078613281,
+      "y": 114.00629425048828
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/rappresentazione dell'informazione.md",
+      "x": -1142.94189453125,
+      "y": 110.39503479003906
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/rappresentazione o codifica dei numeri interi relativi.md",
+      "x": -1226.6077880859375,
+      "y": -440.93499755859375
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/rappresentazione o codifica dei numeri naturali.md",
+      "x": -1651.95751953125,
+      "y": 254.7444305419922
+    },
+    {
+      "id": "codifica",
+      "x": -1884.3233642578125,
+      "y": 331.745849609375
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/rappresentazione o codifica di numeri con la vigola.md",
+      "x": -1267.03662109375,
+      "y": -79.03862762451172
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/reti sequenziali.md",
+      "x": -335.2332458496094,
+      "y": 346.2989807128906
+    },
+    {
+      "id": "automi a stati finiti",
+      "x": -95.47857666015625,
+      "y": 358.264892578125
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/sistema binario.md",
+      "x": -1904.9544677734375,
+      "y": -467.95477294921875
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/sistemi numerici del calcolatore.md",
+      "x": -1686.5677490234375,
+      "y": -312.3294677734375
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/sistemi numerici posizionali.md",
+      "x": -1745.413330078125,
+      "y": -5.123872756958008
+    },
+    {
+      "id": "UNI/progettazione di sistemi digitali/unità di misura del sistema binario.md",
+      "x": -1913.75634765625,
+      "y": -708.504150390625
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}
