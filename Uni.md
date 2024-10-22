@@ -1,4 +1,6 @@
-ULTIMA LEZIONE DI PROGRAMMAZIONE PRIMA DELLE SIMULAZIONE 24 OTTOBRE
+- Giovedì 25 esercitazione in classe Masi senza voto.
+- Prima settimana di Ottobre esonero Piperno.
+- 8 novembre esonero Orsina.
 # info
 > email docenti: cognome@di.uniroma1.it
 # corsi del primo semestre

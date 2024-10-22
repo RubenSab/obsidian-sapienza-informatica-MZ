@@ -4,35 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "17e27e22c5c5d6c2",
+        "id": "bd9df54c65d7080d",
         "type": "tabs",
         "children": [
           {
-            "id": "9df98169b6714e48",
+            "id": "b7e773cd7834e33c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "progettazione di sistemi digitali/algebra delle porte logiche come interpretazione dell'algebra di Boole.md",
+                "file": "metodi matematici per l'informatica/principio di induzione.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "algebra delle porte logiche come interpretazione dell'algebra di Boole"
+              "title": "principio di induzione"
             }
           },
           {
-            "id": "ca6b6c25221b07e0",
+            "id": "32bffab70c48d660",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "progettazione di sistemi digitali/esercizi/esercizi di progettazione di sistemi digitali.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "esercizi di progettazione di sistemi digitali"
+            }
+          },
+          {
+            "id": "4a60248cfb5b598f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uni"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,6 +65,7 @@
       {
         "id": "02fcd87bf8d23f0e",
         "type": "tabs",
+        "dimension": 74.293059125964,
         "children": [
           {
             "id": "6b36e9a938a7c537",
@@ -92,6 +114,7 @@
       {
         "id": "4fc7b8b1100391d3",
         "type": "tabs",
+        "dimension": 25.70694087403599,
         "children": [
           {
             "id": "99a3b99e19797f8f",
@@ -125,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ieee",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,43 +237,43 @@
   },
   "active": "99a3b99e19797f8f",
   "lastOpenFiles": [
-    "progettazione di sistemi digitali/algebra delle porte logiche come interpretazione dell'algebra di Boole.md",
-    "Uni.md",
-    "progettazione di sistemi digitali/esercizi/verificare l'identità.md",
-    "progettazione di sistemi digitali/esercizi/Uni.md",
-    "progettazione di sistemi digitali/esercizi/sommare F7A0 e FB60 che rappresentano valori IEEE 754 HP.md",
-    "progettazione di sistemi digitali/esercizi/si scriva -45 in CA2 a 7 bit e poi si sottragga 21.md",
-    "progettazione di sistemi digitali/esercizi/si converta in base 4 il numero 231(10), si converta poi in base 16 e si sommi a 34A(16).md",
-    "progettazione di sistemi digitali/esercizi/Scheda di esercizi n. 3.md",
+    "auto_push.py",
+    "auto_push.sh",
+    "progettazione di sistemi digitali/esercizi/esercizi di progettazione di sistemi digitali.md",
     "progettazione di sistemi digitali/esercizi/eseguire la complementare.md",
-    "circuito POS AND-TO-OR all-NOR.md",
-    "progettazione di sistemi digitali/circuito SOP AND-TO-OR all-NOR.md",
-    "progettazione di sistemi digitali/circuito SOP AND-TO-OR all-NAND.md",
-    "progettazione di sistemi digitali/circuito POS AND-TO-OR all-NOR.md",
-    "circuito SOP AND-TO-OR all-NOR.md",
-    "verificare l'identità.md",
-    "circuito SOP AND-TO-OR all-NAND.md",
-    "interdisciplinare/algebra di Boole.md",
-    "eseguire la complementare.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "sommare F7A0 e FB60 che rappresentano valori IEEE 754 HP.md",
-    "progettazione di sistemi digitali/rappresentazione o codifica di numeri con la virgola.md",
-    "si converta in base 4 il numero 231(10), si converta poi in base 16 e si sommi a 34A(16).md",
-    "si scriva -45 in CA2 a 7 bit e poi si sottragga 21.md",
-    "progettazione di sistemi digitali/esercizi/stendere la tavola di verità e trovare le espressioni canoniche SOP e POS.md",
-    "calcolo differenziale/definizione di limite e teoremi.md",
+    "README.md",
+    "metodi matematici per l'informatica/esercizi/esercizi di metodi matematici per l'informatica.md",
+    "metodi matematici per l'informatica/esercizi/dimostrazione della numerabilità con l'induzione.md",
+    "calcolo differenziale/esercizi/esercizio con intervalli, min e max.md",
+    "fondamenti di programmazione/esercizi/tabella_esercizio/tabella.md",
+    "fondamenti di programmazione/comandi terminale Linux.md",
+    "fondamenti di programmazione/esercizi di fondamenti di programmazione.md",
+    "fondamenti di programmazione/fondamenti di programmazione.md",
+    "fondamenti di programmazione/esercizi/th.py",
+    "fondamenti di programmazione/esercizi/esercizi03.py",
+    "fondamenti di programmazione/esercizi/tabella_esercizio/tabella.py",
+    "fondamenti di programmazione/esercizi/tabella_esercizio",
+    "fondamenti di programmazione/esercizi",
+    "calcolo differenziale/maggiorante e minorante + teoremi.md",
+    "calcolo differenziale/distanza fra x e y sulla linea numerica.md",
+    "progettazione di sistemi digitali/progettazione di sistemi digitali.md",
+    "calcolo differenziale/esercizi/esercizi di calcolo differenziale.md",
+    "metodi matematici per l'informatica/esercizi/esempio di induzione.md",
+    "metodi matematici per l'informatica/esercizi/dimostrare che dato un insieme V di n punti li possiamo collegare due a due con n(n-1) diviso 2 segmenti (si assuma n maggiore uguale a 2).md",
+    "esercizi di progettazione di sistemi digitali.md",
+    "calcolo differenziale/intervalli in R.md",
+    "esercizi di calcolo differenziale.md",
+    "calcolo differenziale/calcolo differenziale.md",
+    "esercizi di metodi matematici per l'informatica.md",
+    "esempio di induzione.md",
+    "metodi matematici per l'informatica/metodi matematici per l'informatica.md",
+    "esercizi di fondamenti di programmazione.md",
+    "dimostrare che dato un insieme V di n punti li possiamo collegare due a due con n(n-1) diviso 2 segmenti (si assuma n maggiore uguale a 2).md",
     "calcolo differenziale/esercizi",
     "progettazione di sistemi digitali/logic gates.png",
     "progettazione di sistemi digitali/esercizi",
     "progettazione di sistemi digitali",
     "metodi matematici per l'informatica/esercizi",
-    "metodi matematici per l'informatica",
-    "interdisciplinare",
-    "fondamenti di programmazione",
-    "calcolo differenziale",
-    "UNI/progettazione di sistemi digitali/esercizi",
-    "UNI/progettazione di sistemi digitali/logic gates.png",
-    "UNI/metodi matematici per l'informatica/esercizi"
+    "UNI/progettazione di sistemi digitali/logic gates.png"
   ]
 }
