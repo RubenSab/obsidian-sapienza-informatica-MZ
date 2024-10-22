@@ -38,7 +38,7 @@ Esempio: A = {0, 1, 2}  R = {(0,1),(1,2)} $\hat R$={(0,1),(1,2),(2,0)}
 ### ordine (largo)
 >Una relazione riflessiva, antisimmetrica e transitiva è un'**ordine largo**.
 ### ordine stretto
->Una relazione antiriflessiva e transitiva è un'**ordine stretto**.
+>Una relazione antiriflessiva, antisimmetrica e transitiva è un'**ordine stretto**.
 ### ordine totale
 >Una relazione d'ordine (largo o stretto) in cui per ogni coppia di elementi $a$ e $b$ si verifica che $(a,b)\in R$ o $(b,a)\in R$ si dice di **ordine totale**.
 ### ordine parziale
