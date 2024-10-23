@@ -4,56 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "bd9df54c65d7080d",
+        "id": "26648d6e566ad335",
         "type": "tabs",
         "children": [
           {
-            "id": "b7e773cd7834e33c",
+            "id": "fc431cf1dcdb4cda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metodi matematici per l'informatica/principio di induzione.md",
+                "file": "metodi matematici per l'informatica/esercizi/esempio di induzione.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "principio di induzione"
-            }
-          },
-          {
-            "id": "32bffab70c48d660",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "progettazione di sistemi digitali/esercizi/esercizi di progettazione di sistemi digitali.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "esercizi di progettazione di sistemi digitali"
-            }
-          },
-          {
-            "id": "4a60248cfb5b598f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uni"
+              "title": "esempio di induzione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,11 +88,9 @@
           {
             "id": "99a3b99e19797f8f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -235,15 +202,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "99a3b99e19797f8f",
+  "active": "fc431cf1dcdb4cda",
   "lastOpenFiles": [
+    "metodi matematici per l'informatica/esercizi/esercizi di metodi matematici per l'informatica.md",
+    "metodi matematici per l'informatica/dimostrazione della proprietà commutativa del prodotto cartesiano rispetto all'unione.md",
+    "metodi matematici per l'informatica/esercizi/dimostrare che dato un insieme V di n punti li possiamo collegare due a due con n(n-1) diviso 2 segmenti (si assuma n maggiore uguale a 2).md",
+    "metodi matematici per l'informatica/esercizi/esempio di induzione.md",
+    "metodi matematici per l'informatica/esercizi/dimostrazione della numerabilità con l'induzione.md",
     "auto_push.py",
     "auto_push.sh",
     "progettazione di sistemi digitali/esercizi/esercizi di progettazione di sistemi digitali.md",
     "progettazione di sistemi digitali/esercizi/eseguire la complementare.md",
     "README.md",
-    "metodi matematici per l'informatica/esercizi/esercizi di metodi matematici per l'informatica.md",
-    "metodi matematici per l'informatica/esercizi/dimostrazione della numerabilità con l'induzione.md",
     "calcolo differenziale/esercizi/esercizio con intervalli, min e max.md",
     "fondamenti di programmazione/esercizi/tabella_esercizio/tabella.md",
     "fondamenti di programmazione/comandi terminale Linux.md",
@@ -258,8 +228,6 @@
     "calcolo differenziale/distanza fra x e y sulla linea numerica.md",
     "progettazione di sistemi digitali/progettazione di sistemi digitali.md",
     "calcolo differenziale/esercizi/esercizi di calcolo differenziale.md",
-    "metodi matematici per l'informatica/esercizi/esempio di induzione.md",
-    "metodi matematici per l'informatica/esercizi/dimostrare che dato un insieme V di n punti li possiamo collegare due a due con n(n-1) diviso 2 segmenti (si assuma n maggiore uguale a 2).md",
     "esercizi di progettazione di sistemi digitali.md",
     "calcolo differenziale/intervalli in R.md",
     "esercizi di calcolo differenziale.md",
@@ -273,7 +241,6 @@
     "progettazione di sistemi digitali/logic gates.png",
     "progettazione di sistemi digitali/esercizi",
     "progettazione di sistemi digitali",
-    "metodi matematici per l'informatica/esercizi",
     "UNI/progettazione di sistemi digitali/logic gates.png"
   ]
 }

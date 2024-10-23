@@ -5,9 +5,11 @@ $n = 0 \rightarrow A_n=\{0\}$
 $\mathbb{N}-A_{n}=\mathbb{N}-\{0\}$ è numerabile per dimostrazione diretta:
 infatti se per ogni elemento di indice $i$ di $\mathbb{N}$, corrisponde l'elemento di indice $i+1$ di $\mathbb{N}-A_0$, allora esiste una corrispondenza biunivoca tra $\mathbb{N}$ e $\mathbb{N}-\{0\}$, quindi $\mathbb{N}-A_{0}$ è numerabile.
 # Passo induttivo
-Se si dimostra che a ogni elemento di $\mathbb{N}$ di indice $i$ corrisponde l'elemento di $\mathbb{N}-A_{n}$ di indice $i+n+1$, allora $\mathbb{N}-A_n$ è numerabile.
+- $\mathbb{N}-A_n$ è numerabile, cioè è in relazione biunivoca con $\mathbb{N}$
+A ogni elemento di $\mathbb{N}$ di indice $i$ corrisponde l'elemento di $\mathbb{N}-A_{n}$ di indice $i+n+1$, perché gli elementi di $\mathbb{N}-A_n$ sono spostati a sinistra di $n+1$ posizioni rispetto a $\mathbb{N}$, essendo che $\mathbb{N}-A_n$ non ha i primi $n+1$ elementi di $\mathbb{N}$. Quindi $\mathbb{N}-A_n$ è numerabile.
 
-da finire
+A ogni elemento di $\mathbb{N}$ di indice $i$ corrisponde l'elemento di $\mathbb{N}-A_{n+1}$ di indice $i+n+1+1$, perché gli elementi di $\mathbb{N}-A_n+1$ sono spostati a sinistra di $n+1+1$ posizioni rispetto a $\mathbb{N}$, essendo che $\mathbb{N}-A_n+1$ non ha i primi $n+1+1$ elementi di $\mathbb{N}$. Quindi $\mathbb{N}-A_{n+1}$ è numerabile.
+
 
 
 
