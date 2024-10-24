@@ -43,7 +43,7 @@ $x \oplus y =\overline xy +x\overline y$
 NAND: $\overline{ab}$ ( #todo aggiungere simbolo)
 NOR: $\overline{a+b}$ ( #todo aggiungere simbolo)
 
-NAND e NOR sono operatori universali, quindi posso realizzare NOT, AND e OR usando solo NAND oppure solo NOR. Dei circuiti così realizzati si chiamano reti all-AND o reti all-OR.
+NAND e NOR sono operatori universali, quindi posso realizzare NOT, AND e OR usando solo NAND oppure solo NOR (eccetto in casi particolari, quindi bisogna verificare con [[algebra di Boole|De Morgan]]). Dei circuiti così realizzati si chiamano reti all-AND o reti all-OR.
 Esempi:
 - [[circuito SOP AND-TO-OR all-NAND]]
 - [[circuito POS AND-TO-OR all-NOR]]

@@ -30,10 +30,10 @@ L'identità si può verificare:
 1. Per tutti i termini prodotto della forma normale SOP a cui manca uno o più letterali, bisogna moltiplicare il termine per $(\overline{\text{letterale}}+\text{letterale})$.
 >N.B.: non è necessario costruire la tabella di verità.
 2. Si applica la proprietà distributiva $x(y+z)=xy+xz$
-3. Si eliminano i termini uguali grazie all'idempotenza
+3. Si eliminano i termini uguali grazie all'idempotenza.
 ### canoniche POS a partire dalla forma normale
 1. Per tutti i termini somma della forma normale POS a cui manca uno o più letterali, bisogna sommare $(\overline{\text{letterale}}\times \text{letterale})$.
 2. Si applica la proprietà distributiva $x+yz=(x+y)(x+z)$
-3. Si eliminano i termini uguali grazie all'idempotenza
+3. Si eliminano i termini uguali grazie all'idempotenza.
 
 [[esercizio con conversioni tra forme SOP, POS e canoniche]]
