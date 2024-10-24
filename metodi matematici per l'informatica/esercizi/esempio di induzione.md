@@ -15,7 +15,8 @@ Sostituendo l'ipotesi induttiva:
 
 $$\sum_{i=1}^{n+1} \frac{1}{i(i+1)} = \left( 1 - \frac{1}{n+1} \right) + \frac{1}{(n+1)(n+2)}.$$
 
-$$\sum_{i=1}^{n+1} \frac{1}{i(i+1)} = 1 - \frac{(n+2)}{(n+2)(n+1)} + \frac{1}{(n+2)(n+1)}.$$
+$$\sum_{i=1}^{n+1} \frac{1}{i(i+1)} = 1 - \frac{(n+2)}{(n+2)(n+1)} + \frac{1}{(n+2)(n+1)}.
+$$
 
 Combiniamo i termini:
 

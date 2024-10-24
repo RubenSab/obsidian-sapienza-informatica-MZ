@@ -21,16 +21,24 @@ L'algebra di Boole può essere interpretata in più modi, ad esempio applicandol
 > Data un'identità logica si può ottenere una duale scambiando fra loro gli operatori $+$ e $\bullet$, e scambiando fra loro gli 1 e gli 0 avendo cura di mantenere le proprietà esplicite (parentesi) e quelle implicite (ordine delle operazioni NOT, AND, OR).
 # identità di base dell'algebra booleana
 
-| identità                                         | duale dell'identità                                 | nome                           |
+| identità              | duale dell'identità         | nome             |
+| --------------------- | --------------------------- | ---------------- |
+| $X+Y=Y+X$             | $XY = XY$                   | Commutatività    |
+| $X+(Y+Z)=(X+Y)+Z$     | $X(YZ)=(XY)Z$               | Associatività    |
+| $X(Y+Z)=XY+XZ$        | $X+YZ=(X+Y)(X+Z)$           | Distributività   |
+| $X + \overline X = 1$ | $X \bullet \overline X = 0$ | Complementazione |
+| $X+0=X$               | $X \bullet 1 = X$           | elemento neutro  |
+| $X+1=1$               | $X \bullet 0 = 0$           | elemento nullo   |
+
+# proprietà
+
+| espressione                                      | forma duale                                         | nome                           |
 | ------------------------------------------------ | --------------------------------------------------- | ------------------------------ |
-| $X+0=X$                                          | $X \bullet 1 = X$                                   | elemento neutro                |
-| $X+1=1$                                          | $X \bullet 0 = 0$                                   | elemento nullo                 |
-| $X + X = X$                                      | $X \bullet X = X$                                   | Teorema idempotenza            |
-| $X + \overline X = 1$                            | $X \bullet \overline X = 0$                         | Teorema sulla complementazione |
-| $\overline X = X$                                | $\overline {\overline X} = X$                       | Teorema sulla doppia negazione |
-|                                                  |                                                     |                                |
-| $X+Y=Y+X$                                        | $XY = XY$                                           | Proprietà commutativa          |
-| $X+(Y+Z)=(X+Y)+Z$                                | $X(YZ)=(XY)Z$                                       | Proprietà associativa          |
-| $X(Y+Z)=XY+XZ$                                   | $X+YZ=(X+Y)(X+Z)$                                   | Proprietà distributiva         |
-| $\overline{X+Y}=\overline X \bullet \overline Y$ | $\overline{X\bullet Y} = \overline X + \overline Y$ | Teorema di DeMorgan            |
+| $\overline {\overline X}=X$                      |                                                     | involuzione                    |
+| $X+X=X$                                          | $X\bullet X=X$                                      | idempotenza                    |
+| $x+1=1$                                          | $X\bullet 0 = 0$                                    | elemento nullo / nullificatore |
+| $X+XY=X$                                         | $X(X+Y)=X$                                          | assorbimento                   |
+| $\overline{X+Y}=\overline X \bullet \overline Y$ | $\overline{X\bullet Y} = \overline X + \overline Y$ | leggi di De Morgan             |
+| $XY+YZ+\overline XZ=XY+\overline XZ$             |                                                     | consenso                       |
+
 - [[espressioni booleane]]

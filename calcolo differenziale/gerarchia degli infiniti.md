@@ -1,0 +1,4 @@
+
+
+
+- [[formula di Stirling]]

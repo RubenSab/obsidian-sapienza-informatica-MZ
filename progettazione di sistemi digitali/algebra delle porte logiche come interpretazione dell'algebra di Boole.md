@@ -40,8 +40,8 @@ $x \oplus y =\overline xy +x\overline y$
 	$(x\oplus y)\oplus z$
 
 ## NAND e NOR
-NAND: $\overline{ab}$
-NOR: $\overline{a+b}$
+NAND: $\overline{ab}$ ( #todo aggiungere simbolo)
+NOR: $\overline{a+b}$ ( #todo aggiungere simbolo)
 
 NAND e NOR sono operatori universali, quindi posso realizzare NOT, AND e OR usando solo NAND oppure solo NOR. Dei circuiti così realizzati si chiamano reti all-AND o reti all-OR.
 Esempi:

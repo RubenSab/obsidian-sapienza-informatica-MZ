@@ -4,22 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "26648d6e566ad335",
+        "id": "e8d3d77d9fd43b42",
         "type": "tabs",
         "children": [
           {
-            "id": "fc431cf1dcdb4cda",
+            "id": "22f2443bb0c2bf7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metodi matematici per l'informatica/esercizi/esempio di induzione.md",
+                "file": "circuito di controllo apertura cancello.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "circuito di controllo apertura cancello"
+            }
+          },
+          {
+            "id": "515b5437cdfc1f05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interdisciplinare/algebra di Boole.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "esempio di induzione"
+              "title": "algebra di Boole"
+            }
+          },
+          {
+            "id": "36056df26d2edafa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interdisciplinare/espressioni booleane.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "espressioni booleane"
             }
           }
         ]
@@ -34,7 +64,6 @@
       {
         "id": "02fcd87bf8d23f0e",
         "type": "tabs",
-        "dimension": 74.293059125964,
         "children": [
           {
             "id": "6b36e9a938a7c537",
@@ -49,26 +78,6 @@
             }
           },
           {
-            "id": "c7a16431bacee37e",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "2df7f2cb9d43cc32",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "b81d9572839438c6",
             "type": "leaf",
             "state": {
@@ -79,27 +88,11 @@
             }
           }
         ]
-      },
-      {
-        "id": "4fc7b8b1100391d3",
-        "type": "tabs",
-        "dimension": 25.70694087403599,
-        "children": [
-          {
-            "id": "99a3b99e19797f8f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 304.5043640136719
+    "width": 304.5043640136719,
+    "collapsed": true
   },
   "right": {
     "id": "26b38658cac3fe47",
@@ -115,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "minter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,41 +194,42 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fc431cf1dcdb4cda",
+  "active": "22f2443bb0c2bf7f",
   "lastOpenFiles": [
+    "interdisciplinare/algebra di Boole.md",
+    "interdisciplinare/espressioni booleane.md",
+    "progettazione di sistemi digitali/algebra delle porte logiche come interpretazione dell'algebra di Boole.md",
+    "progettazione di sistemi digitali/circuito POS AND-TO-OR all-NOR.md",
+    "progettazione di sistemi digitali/circuito SOP AND-TO-OR all-NAND.md",
+    "circuito di controllo apertura cancello.md",
+    "progettazione di sistemi digitali/AND TO OR.png",
+    "progettazione di sistemi digitali/esercizi/esercizio con conversioni tra forme SOP, POS e canoniche.md",
+    "progettazione di sistemi digitali/esercizi/stendere la tavola di verità e trovare le espressioni canoniche SOP e POS.md",
+    "calcolo differenziale/definizione di limite e teoremi.md",
+    "calcolo differenziale/gerarchia degli infiniti.md",
+    "fondamenti di programmazione/comandi terminale Linux.md",
+    "calcolo differenziale/calcolo differenziale.md",
+    "calcolo differenziale/successione.md",
+    "calcolo differenziale/formula di Stirling.md",
+    "progettazione di sistemi digitali/errori in trasmissione.md",
+    "progettazione di sistemi digitali/codice 2-su-5.md",
+    "progettazione di sistemi digitali/bit di parità.md",
+    "interdisciplinare/cardinalità (o potenza).md",
+    "progettazione di sistemi digitali/ASCII.md",
+    "progettazione di sistemi digitali/codifica BCD.md",
+    "Uni.md",
+    "xn_yn.md",
     "metodi matematici per l'informatica/esercizi/esercizi di metodi matematici per l'informatica.md",
-    "metodi matematici per l'informatica/dimostrazione della proprietà commutativa del prodotto cartesiano rispetto all'unione.md",
-    "metodi matematici per l'informatica/esercizi/dimostrare che dato un insieme V di n punti li possiamo collegare due a due con n(n-1) diviso 2 segmenti (si assuma n maggiore uguale a 2).md",
     "metodi matematici per l'informatica/esercizi/esempio di induzione.md",
-    "metodi matematici per l'informatica/esercizi/dimostrazione della numerabilità con l'induzione.md",
+    "metodi matematici per l'informatica/induzione con definizione di funzione.md",
+    "metodi matematici per l'informatica/dimostrazione della proprietà commutativa del prodotto cartesiano rispetto all'unione.md",
     "auto_push.py",
     "auto_push.sh",
-    "progettazione di sistemi digitali/esercizi/esercizi di progettazione di sistemi digitali.md",
-    "progettazione di sistemi digitali/esercizi/eseguire la complementare.md",
-    "README.md",
-    "calcolo differenziale/esercizi/esercizio con intervalli, min e max.md",
-    "fondamenti di programmazione/esercizi/tabella_esercizio/tabella.md",
-    "fondamenti di programmazione/comandi terminale Linux.md",
-    "fondamenti di programmazione/esercizi di fondamenti di programmazione.md",
-    "fondamenti di programmazione/fondamenti di programmazione.md",
     "fondamenti di programmazione/esercizi/th.py",
     "fondamenti di programmazione/esercizi/esercizi03.py",
     "fondamenti di programmazione/esercizi/tabella_esercizio/tabella.py",
     "fondamenti di programmazione/esercizi/tabella_esercizio",
     "fondamenti di programmazione/esercizi",
-    "calcolo differenziale/maggiorante e minorante + teoremi.md",
-    "calcolo differenziale/distanza fra x e y sulla linea numerica.md",
-    "progettazione di sistemi digitali/progettazione di sistemi digitali.md",
-    "calcolo differenziale/esercizi/esercizi di calcolo differenziale.md",
-    "esercizi di progettazione di sistemi digitali.md",
-    "calcolo differenziale/intervalli in R.md",
-    "esercizi di calcolo differenziale.md",
-    "calcolo differenziale/calcolo differenziale.md",
-    "esercizi di metodi matematici per l'informatica.md",
-    "esempio di induzione.md",
-    "metodi matematici per l'informatica/metodi matematici per l'informatica.md",
-    "esercizi di fondamenti di programmazione.md",
-    "dimostrare che dato un insieme V di n punti li possiamo collegare due a due con n(n-1) diviso 2 segmenti (si assuma n maggiore uguale a 2).md",
     "calcolo differenziale/esercizi",
     "progettazione di sistemi digitali/logic gates.png",
     "progettazione di sistemi digitali/esercizi",

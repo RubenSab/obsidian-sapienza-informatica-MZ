@@ -15,6 +15,6 @@ $F$ è una corrispondenza biunivoca tra $\mathbb{N}$ e $\mathbb{P}$, quindi i du
 # concetto di cardinalità nelle codifiche di informazioni
 - NI = NC codifica non ambigua e non ridondante: gli [[teoria degli insiemi|insiemi]] I e C hanno lo stesso numero di "parole" per codificare ogni tipo di informazioni presenti.
 - NI > NC codifica ambigua: non ci sono abbastanza "parole" per codificare ogni tipo di informazioni presenti.
-- NI < NC codifica ridondante: ci sono più "parole" di quante sono necessarie per codificare le informazioni presenti. Di per se non è negativa, anzi si usa per la correzione degli errori nelle trasmissioni e per altri scopi, ma riduce l'efficienza.
+- NI < NC codifica ridondante: ci sono più "parole" di quante sono necessarie per codificare le informazioni presenti. Di per se non è negativa, anzi si usa per la correzione degli [[errori in trasmissione]] e per altri scopi, ma riduce l'efficienza.
 
 efficienza = bisogna tendere a una codifica meno ridondante possibile.

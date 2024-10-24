@@ -1,4 +1,4 @@
->è una codifica ridondante utile per trasmettere le informazioni permettendo di controllare se si sono verificati errori in trasmissione. In questa codifica solo 2 bit su 5 valgono 1, e a ogni bit si associa un peso.
+>è una codifica ridondante utile per trasmettere le informazioni permettendo di controllare se si sono verificati [[errori in trasmissione]]. In questa codifica solo 2 bit su 5 valgono 1, e a ogni bit si associa un peso.
 
 ```
 Esempio: 63210
