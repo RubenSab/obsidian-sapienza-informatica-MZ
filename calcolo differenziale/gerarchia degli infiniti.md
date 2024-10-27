@@ -1,4 +1,1 @@
-
-
-
-- [[formula di Stirling]]
+#todo

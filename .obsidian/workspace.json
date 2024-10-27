@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "calcolo differenziale/definizione di limite e teoremi.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "definizione di limite e teoremi"
+            }
+          },
+          {
+            "id": "3a5761119c952f66",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,8 +186,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7930719433f001ac",
+  "active": "3a5761119c952f66",
   "lastOpenFiles": [
+    "calcolo differenziale/limiti notevoli e forme indeterminate.md",
+    "calcolo differenziale/gerarchia degli infiniti.md",
+    "calcolo differenziale/teoremi dei limiti.md",
+    "calcolo differenziale/definizione di limite e teoremi.md",
+    "calcolo differenziale/formula di Stirling.md",
+    "README.md",
     "metodi matematici per l'informatica/esercizi/esercizi di metodi matematici per l'informatica.md",
     "metodi matematici per l'informatica/esercizi/carrellata esercizi insiemistica e induzione.md",
     "calcolo differenziale/distanza fra x e y sulla linea numerica.md",
@@ -197,12 +215,6 @@
     "progettazione di sistemi digitali/AND TO OR.png",
     "progettazione di sistemi digitali/esercizi/esercizio con conversioni tra forme SOP, POS e canoniche.md",
     "progettazione di sistemi digitali/esercizi/stendere la tavola di verità e trovare le espressioni canoniche SOP e POS.md",
-    "calcolo differenziale/definizione di limite e teoremi.md",
-    "calcolo differenziale/gerarchia degli infiniti.md",
-    "fondamenti di programmazione/comandi terminale Linux.md",
-    "calcolo differenziale/calcolo differenziale.md",
-    "calcolo differenziale/successione.md",
-    "calcolo differenziale/formula di Stirling.md",
     "auto_push.py",
     "auto_push.sh",
     "fondamenti di programmazione/esercizi/th.py",
