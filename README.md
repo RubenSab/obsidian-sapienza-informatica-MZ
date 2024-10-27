@@ -7,7 +7,7 @@ Il mio database Obsidian di appunti dei corsi di Ingegneria dell'Informazione Sa
 
 ## Come importare il repo su Obsidian
 1. Se già non lo hai, installa [Obsidian](https://obsidian.md/);
-2. clona il repo degli appunti con `git clone https://github.com/RubenSab/obsidian-sapienza-informatica-MZ.git`;
+2. apri il terminale e clona il repo degli appunti con `git clone https://github.com/RubenSab/obsidian-sapienza-informatica-MZ.git`;
 3. avviato Obsidian, apri la cartella appena clonata come vault;
 4. clicca sull'opzione per abilitare i plugin esterni sulla schermata di conferma.
 
