@@ -11,9 +11,9 @@ Si ottimizza un circuito codificando la sequenza delle sue porte logiche in un'e
 - soprasegno (complemento) ($\overline A$) si indica con **NOT**
 - punto ($\bullet$) (prodotto) si indica con **AND**
 ## porte a più ingressi
->Una porta a più ingressi costa come n-1 porte.
+> Una porta AND o OR a n ingressi costa come n-1 porte.
 - esempio: and(a, b, c) = and( and(a, b), c )
-
+> Una porta NAND o NOR a più ingressi costa come n o più porte (porte NAND o NOR).
 # altri operatori
 ## XOR
 
