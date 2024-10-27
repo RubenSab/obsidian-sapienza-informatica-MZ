@@ -11,9 +11,6 @@ $L$ = valore del limite
 - [[gerarchia degli infiniti]]
 - [[limiti notevoli e forme indeterminate]]
 - [[formula di Stirling]]
-# gerarchia degli infiniti
-#todo
-
 
 
 
