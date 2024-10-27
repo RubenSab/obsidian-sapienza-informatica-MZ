@@ -11,5 +11,10 @@ Il mio database Obsidian di appunti dei corsi di Ingegneria dell'Informazione Sa
 3. avviato Obsidian, apri la cartella appena clonata come vault;
 4. clicca sull'opzione per abilitare i plugin esterni sulla schermata di conferma.
 
+## Consigli
+- Non tutti i concetti hanno una pagina dedicata: clicca sull'icona del **pannello laterale in alto a sinistra** e poi sulla lente per cercare titoli, esercizi o parole specifiche.
+- Premi **Ctrl E** per passare dalla modalità scrittura a lettura e viceversa.
+- Clicca sull'**icona in alto a sinistra con il "bivio"** per vedere un grafico interattivo con tutti gli appunti.
+
 ## Come aggiornare periodicamente gli appunti
 - Esegui semplicemente `git pull` nella cartella del vault. (obsidian-sapienza-informatica-MZ)
