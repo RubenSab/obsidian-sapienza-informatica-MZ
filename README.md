@@ -17,4 +17,4 @@ Il mio database Obsidian di appunti dei corsi di Ingegneria dell'Informazione Sa
 - Clicca sull'**icona in alto a sinistra con il "bivio"** per vedere un grafico interattivo con tutti gli appunti.
 
 ## Come aggiornare periodicamente gli appunti
-- Esegui semplicemente `git pull` nella cartella del vault. (obsidian-sapienza-informatica-MZ)
+- Apri un terminale nella cartella del vault con gli appunti (obsidian-sapienza-informatica-MZ) ed esegui `git pull`.
