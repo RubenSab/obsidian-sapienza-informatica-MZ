@@ -1,1 +1,0 @@
-- basata sulle booleane (algebra di Boole)
