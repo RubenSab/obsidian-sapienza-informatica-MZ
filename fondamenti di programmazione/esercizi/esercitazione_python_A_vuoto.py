@@ -249,12 +249,15 @@ corpo = 'pippPIPPOpipipipipipppppPIPPO'
               1                    2
 
 NB: NON SI PUO' USARE IL METODO count() delle stringhe
-"""¯
+"""
 
 
 def count_sub_string(query, corpo):
-    return corpo.count(query)
-
+    count = 0
+    for i in range(len(corpo)):
+        if corpo[i:i+len(query)] == query:
+            count += 1
+    return count
 
 evaluation.show_tests(count_sub_string)
 evaluation.evaluate(count_sub_string)
@@ -291,8 +294,12 @@ Inoltre si trova anche a:
 
 
 def count_sub_string_idx(query, corpo):
-    pass
-
+    count = 0
+    tuples = []
+    for i in range(len(corpo)):
+        if corpo[i:i+len(query)] == query:
+            tuples.append((i, i-1+len(query)))
+    return tuples
 
 evaluation.show_tests(count_sub_string_idx)
 evaluation.evaluate(count_sub_string_idx)
@@ -604,10 +611,10 @@ S = ('zzz', 'aaa', 'zzzzz', 'aaaaa')
 """
 
 def sort_by_str(T):
-    def sort_criterion(l):
-        return 
-        
-    return sorted(T, key= sort_criterion)
+    T = list(T)
+    T.sort(key=len)
+    T.sort(reverse=True)
+    return tuple(sorted(T, key=lambda x:(-len(x), x), reverse=True))
 
 evaluation.show_tests(sort_by_str)
 evaluation.evaluate(sort_by_str)
@@ -688,8 +695,13 @@ ingressso L e':
 """
 
 def int_to_hist(values):
-    counts_dict = {i:L.count(i) for i in L}
-    return ''.join([f'{i}\t'+str(list(counts_dict.keys())[i]) for i in range(len(counts_dict))])
+    Min = min(values)
+    Max= max(values)
+    counts_dict = {}
+    for i in range(Min, Max+1):
+        counts_dict.update({i: values.count(i)})
+    return "".join([str(i)+'\t'+'*'*counts_dict[i]+'\n' for i in counts_dict])
+
 evaluation.show_tests(int_to_hist)
 evaluation.evaluate(int_to_hist)
 

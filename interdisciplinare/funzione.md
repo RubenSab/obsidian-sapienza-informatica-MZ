@@ -1,3 +1,4 @@
+$f:\mathbb{R}\rightarrow\mathbb{R}, \ \ x\rightarrow f(x)$
 $f: A \rightarrow B$
 - $f$ è la legge che associa ad ogni elemento di $A$ un'elemento di $B$
 - $A$ è il dominio

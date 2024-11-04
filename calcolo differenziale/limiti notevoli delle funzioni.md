@@ -1,0 +1,1 @@
+#todo aggiungere i limiti notevoli non che tendono a +infinito e copiare i limiti delle successioni

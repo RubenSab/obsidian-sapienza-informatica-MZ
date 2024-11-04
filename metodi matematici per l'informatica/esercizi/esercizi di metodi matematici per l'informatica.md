@@ -5,3 +5,4 @@
 - [[induzione con definizione di funzione]]
 - [[xn_yn]]
 - [[carrellata esercizi insiemistica e induzione]]
+- [[induzione con diagonali dei poligoni]]
