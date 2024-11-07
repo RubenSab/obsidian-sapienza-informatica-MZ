@@ -4,37 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "752f2b70924c45de",
+        "id": "bab08db42c78397b",
         "type": "tabs",
         "children": [
           {
-            "id": "9d4c45084d39699a",
+            "id": "9540cf631948576f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Uni"
+              "title": "New tab"
             }
           },
           {
-            "id": "b8b1d7dc40f398fa",
+            "id": "eec35c7b5a23cca4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calcolo differenziale/limiti di funzioni.md",
-                "mode": "source",
+                "file": "metodi matematici per l'informatica/logica proposizionale.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "limiti di funzioni"
+              "title": "logica proposizionale"
             }
           }
         ],
@@ -123,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "logica proposi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,26 +207,32 @@
   },
   "active": "3a5761119c952f66",
   "lastOpenFiles": [
-    "calcolo differenziale/limiti di funzioni.md",
-    "Untitled.md",
-    "calcolo differenziale/teorema di unicità del limite.md",
-    "calcolo differenziale/limiti notevoli delle funzioni.md",
-    "calcolo differenziale/teorema ponte.md",
-    "Uni.md",
+    "metodi matematici per l'informatica/logica proposizionale.md",
+    "metodi matematici per l'informatica/metodi matematici per l'informatica.md",
+    "interdisciplinare/algebra di Boole.md",
+    "metodi matematici per l'informatica/logica proposizionaleh.md",
+    "metodi matematici per l'informatica/implicazione materiale.md",
+    "metodi matematici per l'informatica/sintassi.md",
+    "progettazione di sistemi digitali/funzioni non completamente definita o specificata.md",
+    "progettazione di sistemi digitali/addizionatore a propagazione di riporto (ripple carry adder).md",
     "interdisciplinare/funzione.md",
-    "calcolo differenziale/limiti notevoli delle successioni e forme indeterminate.md",
-    "calcolo differenziale/definizione di limite e teoremi.md",
-    "calcolo differenziale/limiti di successioni.md",
-    "calcolo differenziale/teoremi dei limiti sulle successioni.md",
-    "calcolo differenziale/gerarchia degli infiniti.md",
-    "metodi matematici per l'informatica/esercizi/xn_yn.md",
-    "metodi matematici per l'informatica/esercizi/esercizi di metodi matematici per l'informatica.md",
-    "metodi matematici per l'informatica/esercizi/carrellata esercizi insiemistica e induzione.md",
-    "metodi matematici per l'informatica/principio di induzione.md",
-    "metodi matematici per l'informatica/esercizi/induzione con diagonali dei poligoni.md",
-    "metodi matematici per l'informatica/esercizi/esercizi 10-15.md",
-    "metodi matematici per l'informatica/induzione completa.md",
-    "metodi matematici per l'informatica/induzione matematica.md",
+    "progettazione di sistemi digitali/ottimizzazione dei circuiti.md",
+    "progettazione di sistemi digitali/esercizi/esercizi di progettazione di sistemi digitali.md",
+    "progettazione di sistemi digitali/esercizi/circuito di controllo apertura cancello.md",
+    "progettazione di sistemi digitali/addizionatori.md",
+    "progettazione di sistemi digitali/addizionatore di riporto per valori in CA2.md",
+    "interdisciplinare/espressioni booleane.md",
+    "progettazione di sistemi digitali/mappa di Karnaugh.md",
+    "progettazione di sistemi digitali/porte logiche.md",
+    "progettazione di sistemi digitali/NAND e NOR.md",
+    "progettazione di sistemi digitali/altri operatori logici.md",
+    "progettazione di sistemi digitali/XOR.md",
+    "progettazione di sistemi digitali/criterio di minimalità.md",
+    "progettazione di sistemi digitali/sia x un numero BCD. considerare la codifica y nel codice 2-su-5. scrivere le espressioni minimali per i singoli bit di y.md",
+    "progettazione di sistemi digitali/esercizi/dato x contenuto nell'intervallo 0, 7 (compresi) rappresentato in 3 bit CA2 stendere la tavola di verità. y = x-2 rappresentato in CA2 con il minimo numero di bit.md",
+    "progettazione di sistemi digitali/circuito SOP AND-TO-OR all-NAND.md",
+    "calcolo differenziale/limiti di funzioni.md",
+    "calcolo differenziale/teorema di unicità del limite.md",
     "fondamenti di programmazione/esercizi/tmpl0118azz",
     "fondamenti di programmazione/esercizi/tmplvtzz79j",
     "fondamenti di programmazione/esercizi/tmpglv2fjcz",
@@ -242,12 +243,6 @@
     "fondamenti di programmazione/esercizi/tmpvx21fhey",
     "fondamenti di programmazione/esercizi/tmplbzg529r",
     "fondamenti di programmazione/esercizi/tmpefeq9914",
-    "progettazione di sistemi digitali/minimizzazione di espressioni booleane.md",
-    "progettazione di sistemi digitali/criterio di minimalità.md",
-    "progettazione di sistemi digitali/funzioni non completamente specificate.md",
-    "progettazione di sistemi digitali/complemento a 2 (CA2).md",
-    "progettazione di sistemi digitali/altri operatori logici.md",
-    "progettazione di sistemi digitali/esercizi/si scriva -45 in CA2 a 7 bit e poi si sottragga 21.md",
     "progettazione di sistemi digitali/AND TO OR.png",
     "progettazione di sistemi digitali/logic gates.png",
     "UNI/progettazione di sistemi digitali/logic gates.png"

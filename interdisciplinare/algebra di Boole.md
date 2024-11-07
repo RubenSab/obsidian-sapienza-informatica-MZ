@@ -16,7 +16,7 @@ L'algebra di Boole può essere costruita a partire da diversi insiemi di postula
 2. $\overline{A+\overline A}=0$ elemento nullo
 3. $A\bullet B = \overline {(\overline A + \overline B)}$ 
 
-L'algebra di Boole può essere interpretata in più modi, ad esempio applicandola alle aree, alla logica proposizionale o alle [[algebra delle porte logiche come interpretazione dell'algebra di Boole]] dei circuiti, avendo cura di mantenere le 
+L'algebra di Boole può essere interpretata in più modi, ad esempio applicandola alle aree, alla [[logica proposizionale]] o alle [[algebra delle porte logiche come interpretazione dell'algebra di Boole]] dei circuiti, avendo cura di mantenere le 
 # principio di dualità
 > Data un'identità logica si può ottenere una duale scambiando fra loro gli operatori $+$ e $\bullet$, e scambiando fra loro gli 1 e gli 0 avendo cura di mantenere le proprietà esplicite (parentesi) e quelle implicite (ordine delle operazioni NOT, AND, OR).
 # identità di base dell'algebra booleana

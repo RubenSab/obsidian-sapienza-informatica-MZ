@@ -4,4 +4,4 @@ Il funzionamento di un circuito, visto come struttura sequenziale di porte logic
 - [[porte logiche]]
 - [[segnali a onda quadra]]
 - [[funzione di maggioranza]]
-- [[funzioni non completamente specificate]]
+- [[funzioni non completamente definita o specificata]]

@@ -6,4 +6,6 @@
 - [[sommare F7A0 e FB60 che rappresentano valori IEEE 754 HP]]
 - [[stendere la tavola di verità e trovare le espressioni canoniche SOP e POS]]
 - [[si converta in base 4 il numero 231(10), si converta poi in base 16 e si sommi a 34A(16)]]
+- [[circuito di controllo apertura cancello]]
 - [[dato x contenuto nell'intervallo 0, 7 (compresi) rappresentato in 3 bit CA2 stendere la tavola di verità. y = x-2 rappresentato in CA2 con il minimo numero di bit]]
+- [[sia x un numero BCD. considerare la codifica y nel codice 2-su-5. scrivere le espressioni minimali per i singoli bit di y]]
