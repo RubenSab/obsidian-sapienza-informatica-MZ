@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "progettazione di sistemi digitali/read only memory (ROM).md",
-                "mode": "source",
+                "file": "progettazione di sistemi digitali/addizionatore a propagazione di riporto (ripple carry adder).md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "read only memory (ROM)"
+              "title": "addizionatore a propagazione di riporto (ripple carry adder)"
             }
           },
           {
@@ -237,15 +237,18 @@
   },
   "active": "eb6b48801e8b2cc2",
   "lastOpenFiles": [
-    "progettazione di sistemi digitali/moduli standard.md",
-    "progettazione di sistemi digitali/read only memory (ROM).md",
-    "progettazione di sistemi digitali/decodificatore (dec).md",
-    "progettazione di sistemi digitali/multiplexer (mux).md",
-    "Untitled.md",
+    "progettazione di sistemi digitali/full adder.md",
+    "progettazione di sistemi digitali/addizionatori.md",
+    "progettazione di sistemi digitali/half adder.md",
     "progettazione di sistemi digitali/demultiplexer (demux).md",
+    "progettazione di sistemi digitali/moduli standard.md",
+    "progettazione di sistemi digitali/multiplexer (mux).md",
+    "progettazione di sistemi digitali/codificatore (enc).md",
+    "progettazione di sistemi digitali/decodificatore (dec).md",
+    "progettazione di sistemi digitali/read only memory (ROM).md",
+    "Untitled.md",
     "progettazione di sistemi digitali/demux2.svg",
     "progettazione di sistemi digitali/2mux.svg",
-    "progettazione di sistemi digitali/codificatore (enc).md",
     "progettazione di sistemi digitali/AND gate con funzione di controllo.md",
     "progettazione di sistemi digitali/addizionatore a propagazione di riporto (ripple carry adder).md",
     "progettazione di sistemi digitali/NAND e NOR.md",
@@ -260,7 +263,6 @@
     "progettazione di sistemi digitali/decoder.svg",
     "progettazione di sistemi digitali/decoder.png",
     "moduli.md",
-    "progettazione di sistemi digitali/full adder.md",
     "progettazione di sistemi digitali/ripple_carry_adder.webp",
     "progettazione di sistemi digitali/porte logiche.md",
     "Untitled 1.md",
@@ -269,8 +271,6 @@
     "progettazione di sistemi digitali/circuito SOP AND-TO-OR all-NAND.md",
     "progettazione di sistemi digitali/addizionatore di riporto per valori in CA2.md",
     "progettazione di sistemi digitali/rappresentazione dell'informazione.md",
-    "progettazione di sistemi digitali/addizionatori.md",
-    "progettazione di sistemi digitali/half adder.md",
     "progettazione di sistemi digitali/XOR.md",
     "progettazione di sistemi digitali/mappa di Karnaugh.md",
     "fondamenti di programmazione/esercizi/tmpl0118azz",
