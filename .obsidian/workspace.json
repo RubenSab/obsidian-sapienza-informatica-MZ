@@ -8,67 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9540cf631948576f",
+            "id": "dc1462198ec8bb35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "progettazione di sistemi digitali/Gray code.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gray code"
-            }
-          },
-          {
-            "id": "2e8cb79e13dc1e02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "progettazione di sistemi digitali/NAND e NOR.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NAND e NOR"
-            }
-          },
-          {
-            "id": "a16196806ce4b7c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "progettazione di sistemi digitali/addizionatore a propagazione di riporto (ripple carry adder).md",
+                "file": "progettazione di sistemi digitali/multiplexer (mux).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "addizionatore a propagazione di riporto (ripple carry adder)"
+              "title": "multiplexer (mux)"
             }
           },
           {
-            "id": "eff17873f8d074f0",
+            "id": "eb6b48801e8b2cc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AND gate con funzione di controllo.md",
+                "file": "progettazione di sistemi digitali/read only memory (ROM).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AND gate con funzione di controllo"
+              "title": "read only memory (ROM)"
+            }
+          },
+          {
+            "id": "7cc536e9b4d7b73c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "progettazione di sistemi digitali/decodificatore (dec).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "decodificatore (dec)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,14 +235,34 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a16196806ce4b7c3",
+  "active": "eb6b48801e8b2cc2",
   "lastOpenFiles": [
-    "progettazione di sistemi digitali/full adder.md",
+    "progettazione di sistemi digitali/moduli standard.md",
+    "progettazione di sistemi digitali/read only memory (ROM).md",
+    "progettazione di sistemi digitali/decodificatore (dec).md",
+    "progettazione di sistemi digitali/multiplexer (mux).md",
+    "Untitled.md",
+    "progettazione di sistemi digitali/demultiplexer (demux).md",
+    "progettazione di sistemi digitali/demux2.svg",
+    "progettazione di sistemi digitali/2mux.svg",
+    "progettazione di sistemi digitali/codificatore (enc).md",
+    "progettazione di sistemi digitali/AND gate con funzione di controllo.md",
     "progettazione di sistemi digitali/addizionatore a propagazione di riporto (ripple carry adder).md",
+    "progettazione di sistemi digitali/NAND e NOR.md",
+    "progettazione di sistemi digitali/Gray code.md",
+    "progettazione di sistemi digitali/demultiplexer.svg",
+    "progettazione di sistemi digitali/multiplexer_con_decodificatore.svg",
+    "progettazione di sistemi digitali/multiplexer.svg",
+    "progettazione di sistemi digitali/multiplexed.svg",
+    "progettazione di sistemi digitali/esercizi/esercizi di progettazione di sistemi digitali.md",
+    "progettazione di sistemi digitali/encoder.svg",
+    "decodificatori.md",
+    "progettazione di sistemi digitali/decoder.svg",
+    "progettazione di sistemi digitali/decoder.png",
+    "moduli.md",
+    "progettazione di sistemi digitali/full adder.md",
     "progettazione di sistemi digitali/ripple_carry_adder.webp",
     "progettazione di sistemi digitali/porte logiche.md",
-    "progettazione di sistemi digitali/NAND e NOR.md",
-    "AND gate con funzione di controllo.md",
     "Untitled 1.md",
     "interdisciplinare/algebra di Boole.md",
     "progettazione di sistemi digitali/circuito POS AND-TO-OR all-NOR.md",
@@ -266,21 +271,8 @@
     "progettazione di sistemi digitali/rappresentazione dell'informazione.md",
     "progettazione di sistemi digitali/addizionatori.md",
     "progettazione di sistemi digitali/half adder.md",
-    "progettazione di sistemi digitali/Full-Adder.png",
-    "progettazione di sistemi digitali/Half-Adder.png",
     "progettazione di sistemi digitali/XOR.md",
-    "progettazione di sistemi digitali/Gray code.md",
     "progettazione di sistemi digitali/mappa di Karnaugh.md",
-    "progettazione di sistemi digitali/ottimizzazione dei circuiti.md",
-    "Gray code.md",
-    "progettazione di sistemi digitali/Gray-Code.png",
-    "progettazione di sistemi digitali/sistema binario.md",
-    "progettazione di sistemi digitali/criterio di minimalità.md",
-    "interdisciplinare/espressioni booleane.md",
-    "progettazione di sistemi digitali/funzione di maggioranza.md",
-    "progettazione di sistemi digitali/esercizi/esercizio con conversioni tra forme SOP, POS e canoniche.md",
-    "progettazione di sistemi digitali/algebra delle porte logiche come interpretazione dell'algebra di Boole.md",
-    "metodi matematici per l'informatica/logica proposizionale.md",
     "fondamenti di programmazione/esercizi/tmpl0118azz",
     "fondamenti di programmazione/esercizi/tmplvtzz79j",
     "fondamenti di programmazione/esercizi/tmpglv2fjcz",
@@ -290,9 +282,6 @@
     "fondamenti di programmazione/esercizi/tmpqairn22x",
     "fondamenti di programmazione/esercizi/tmpvx21fhey",
     "fondamenti di programmazione/esercizi/tmplbzg529r",
-    "fondamenti di programmazione/esercizi/tmpefeq9914",
-    "progettazione di sistemi digitali/AND TO OR.png",
-    "progettazione di sistemi digitali/logic gates.png",
-    "UNI/progettazione di sistemi digitali/logic gates.png"
+    "fondamenti di programmazione/esercizi/tmpefeq9914"
   ]
 }
