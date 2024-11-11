@@ -14,8 +14,8 @@ $P, Q \in LP$
 
 # operatori logici
 
-- not: $(\not P) \in LP$
-- and: $(P \wedge Q)\in LP$
-- or: $(P\land Q)\in LP$
+- not: $(\neg P) \in LP$
+- and: $(P \land Q)\in LP$
+- or: $(P\lor Q)\in LP$
 - [[implicazione materiale]] $(P\rightarrow Q) \in LP$
 - se e solo se: $(P\leftrightarrow Q)\in LP$

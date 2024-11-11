@@ -4,5 +4,6 @@
   "cssTheme": "",
   "monospaceFontFamily": "JetBrains Mono NL",
   "textFontFamily": "",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "baseFontSize": 16
 }

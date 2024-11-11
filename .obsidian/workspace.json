@@ -11,29 +11,64 @@
             "id": "9540cf631948576f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "eec35c7b5a23cca4",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "metodi matematici per l'informatica/logica proposizionale.md",
+                "file": "progettazione di sistemi digitali/Gray code.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "logica proposizionale"
+              "title": "Gray code"
+            }
+          },
+          {
+            "id": "2e8cb79e13dc1e02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "progettazione di sistemi digitali/NAND e NOR.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NAND e NOR"
+            }
+          },
+          {
+            "id": "a16196806ce4b7c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "progettazione di sistemi digitali/addizionatore a propagazione di riporto (ripple carry adder).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "addizionatore a propagazione di riporto (ripple carry adder)"
+            }
+          },
+          {
+            "id": "eff17873f8d074f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AND gate con funzione di controllo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AND gate con funzione di controllo"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -45,7 +80,7 @@
       {
         "id": "02fcd87bf8d23f0e",
         "type": "tabs",
-        "dimension": 52.54957507082153,
+        "dimension": 37.62597984322508,
         "children": [
           {
             "id": "6b36e9a938a7c537",
@@ -65,8 +100,8 @@
             "state": {
               "type": "surfing-tab-tree",
               "state": {},
-              "icon": "chrome",
-              "title": "Surfing Tab Tree"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -78,13 +113,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "8a0ca084c03dbab4",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "chrome",
+              "title": "Surfing Tab Tree"
+            }
           }
         ]
       },
       {
         "id": "48d1d83a5df92899",
         "type": "tabs",
-        "dimension": 47.45042492917847,
+        "dimension": 62.37402015677491,
         "children": [
           {
             "id": "3a5761119c952f66",
@@ -102,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5043640136719
+    "width": 389.5094871520996
   },
   "right": {
     "id": "26b38658cac3fe47",
@@ -118,7 +163,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "logica proposi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,34 +250,37 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3a5761119c952f66",
+  "active": "a16196806ce4b7c3",
   "lastOpenFiles": [
-    "metodi matematici per l'informatica/logica proposizionale.md",
-    "metodi matematici per l'informatica/metodi matematici per l'informatica.md",
-    "interdisciplinare/algebra di Boole.md",
-    "metodi matematici per l'informatica/logica proposizionaleh.md",
-    "metodi matematici per l'informatica/implicazione materiale.md",
-    "metodi matematici per l'informatica/sintassi.md",
-    "progettazione di sistemi digitali/funzioni non completamente definita o specificata.md",
+    "progettazione di sistemi digitali/full adder.md",
     "progettazione di sistemi digitali/addizionatore a propagazione di riporto (ripple carry adder).md",
-    "interdisciplinare/funzione.md",
-    "progettazione di sistemi digitali/ottimizzazione dei circuiti.md",
-    "progettazione di sistemi digitali/esercizi/esercizi di progettazione di sistemi digitali.md",
-    "progettazione di sistemi digitali/esercizi/circuito di controllo apertura cancello.md",
-    "progettazione di sistemi digitali/addizionatori.md",
-    "progettazione di sistemi digitali/addizionatore di riporto per valori in CA2.md",
-    "interdisciplinare/espressioni booleane.md",
-    "progettazione di sistemi digitali/mappa di Karnaugh.md",
+    "progettazione di sistemi digitali/ripple_carry_adder.webp",
     "progettazione di sistemi digitali/porte logiche.md",
     "progettazione di sistemi digitali/NAND e NOR.md",
-    "progettazione di sistemi digitali/altri operatori logici.md",
-    "progettazione di sistemi digitali/XOR.md",
-    "progettazione di sistemi digitali/criterio di minimalità.md",
-    "progettazione di sistemi digitali/sia x un numero BCD. considerare la codifica y nel codice 2-su-5. scrivere le espressioni minimali per i singoli bit di y.md",
-    "progettazione di sistemi digitali/esercizi/dato x contenuto nell'intervallo 0, 7 (compresi) rappresentato in 3 bit CA2 stendere la tavola di verità. y = x-2 rappresentato in CA2 con il minimo numero di bit.md",
+    "AND gate con funzione di controllo.md",
+    "Untitled 1.md",
+    "interdisciplinare/algebra di Boole.md",
+    "progettazione di sistemi digitali/circuito POS AND-TO-OR all-NOR.md",
     "progettazione di sistemi digitali/circuito SOP AND-TO-OR all-NAND.md",
-    "calcolo differenziale/limiti di funzioni.md",
-    "calcolo differenziale/teorema di unicità del limite.md",
+    "progettazione di sistemi digitali/addizionatore di riporto per valori in CA2.md",
+    "progettazione di sistemi digitali/rappresentazione dell'informazione.md",
+    "progettazione di sistemi digitali/addizionatori.md",
+    "progettazione di sistemi digitali/half adder.md",
+    "progettazione di sistemi digitali/Full-Adder.png",
+    "progettazione di sistemi digitali/Half-Adder.png",
+    "progettazione di sistemi digitali/XOR.md",
+    "progettazione di sistemi digitali/Gray code.md",
+    "progettazione di sistemi digitali/mappa di Karnaugh.md",
+    "progettazione di sistemi digitali/ottimizzazione dei circuiti.md",
+    "Gray code.md",
+    "progettazione di sistemi digitali/Gray-Code.png",
+    "progettazione di sistemi digitali/sistema binario.md",
+    "progettazione di sistemi digitali/criterio di minimalità.md",
+    "interdisciplinare/espressioni booleane.md",
+    "progettazione di sistemi digitali/funzione di maggioranza.md",
+    "progettazione di sistemi digitali/esercizi/esercizio con conversioni tra forme SOP, POS e canoniche.md",
+    "progettazione di sistemi digitali/algebra delle porte logiche come interpretazione dell'algebra di Boole.md",
+    "metodi matematici per l'informatica/logica proposizionale.md",
     "fondamenti di programmazione/esercizi/tmpl0118azz",
     "fondamenti di programmazione/esercizi/tmplvtzz79j",
     "fondamenti di programmazione/esercizi/tmpglv2fjcz",

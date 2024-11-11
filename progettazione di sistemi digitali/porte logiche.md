@@ -8,6 +8,9 @@
 - punto ($\bullet$) (prodotto) si indica con **AND**
 - [[altri operatori logici]]
 ## porte a più ingressi
+
 > Una porta AND o OR a n ingressi costa come n-1 porte.
+
 - esempio: and(a, b, c) = and( and(a, b), c )
+
 > Una porta NAND o NOR a più ingressi costa come n o più porte (porte NAND o NOR).

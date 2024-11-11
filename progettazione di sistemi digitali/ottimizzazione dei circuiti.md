@@ -7,12 +7,13 @@ Si ottimizza un circuito codificando la sequenza delle sue porte logiche in un'e
 - espressioni booleane (opzionale)
 - tavola di verità
 - ottenere le espressioni minimali tramite K mappe
-- espressioni minimali tramite K mappe
 - disegno del circuito
 
-# come si vede se un circuito è [[criterio di minimalità|minimale]]
+# come si vede se un circuito è [[criterio di minimalità|minimale]]: analisi
 - vedere la rappresentazione del circuito
 - scrivere un'espressione booleana di ogni uscita
 - compilare la tavola di verità
-- fare la descrizione verbale
+- fare la descrizione verbale del funzionamento del circuito
 - caratterizzare le condizioni che danno uscita 1 (attivare qualcosa)
+- ottenere le espressioni minimali tramite K mappe
+- confrontare il circuito ottenuto con il circuito originale.

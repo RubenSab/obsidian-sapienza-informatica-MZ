@@ -20,12 +20,14 @@ L'identità si può verificare:
 ### forme SOP
 > Le forme SOP (Sum of Products), o forme disgiuntive, sono espressioni nella forma prodotto $+$ prodotto.
 ### procedimento per ottenere una forma normale
-1. Applicare De Morgan per ottenere la complementazione sulle singole variabili.
-2. Applicare la proprietà distributiva per svolgere le espressioni tra parentesi.
-3. Applicare assorbimento e idempotenza per eliminare termini ridondanti o ripetuti, così otteniamo una forma normale.
+1. Applicare De Morgan per "spostare" la complementazione da espressioni più grandi alle singole variabili.
+2. Applicare la **proprietà distributiva** per svolgere le espressioni tra parentesi.
+3. Applicare più volte **assorbimento** e **idempotenza** per eliminare termini ridondanti o ripetuti, così otteniamo una forma normale.
 - [[esercizio con conversioni tra forme SOP, POS e canoniche]]
 ## forme canoniche
-> Una forma canonica è un'espressione booleana nella quale tutti i termini sono mintermini (contengono tutti i letterali) o maxtermini (contengono tutti i letterali). #todo (M_n)
+> Una forma canonica è un'espressione booleana nella quale tutti i termini sono:
+- ***mintermini*** ($m_n$), cioè prodotti logici di variabili (eventualmente complementate) o
+- ***maxtermini*** ($M_n$), cioè somme logiche di variabili (eventualmente complementate)
 ### canoniche SOP a partire dalla forma normale
 1. Per tutti i termini prodotto della forma normale SOP a cui manca uno o più letterali, bisogna moltiplicare il termine per $(\overline{\text{letterale}}+\text{letterale})$.
 >N.B.: non è necessario costruire la tabella di verità.
