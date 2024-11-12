@@ -2,7 +2,7 @@
 
 > Modulo che riceve $n$ linee in ingresso e $n$ linee di selezione (di cui una sola vale 1), e in output ritorna la linea di ingresso scelta dalle linee di selezione.
 
-Viene prodotto con una serie di AND di gating, in cui le linee di ingresso sono il segnale da selezionare, e le linee di selezione le selezionano.
+Viene prodotto con una serie di [[AND gate con funzione di controllo]], in cui le linee di ingresso sono il segnale da selezionare, e le linee di selezione le selezionano.
 
 > Espressione booleana: $a\overline{c_{1}}\overline{c_{0}} + b\overline{c_{1}}c_{0} + c c_{1} \overline{c_{0}} + d c_{1} c_{0}$
 
