@@ -1,4 +1,4 @@
-Si ottiene concatenando 2 [[half adder]].
+Si ottiene concatenando 2 [[half adder (HA)]].
 
 ![[Full-Adder.png]]
 

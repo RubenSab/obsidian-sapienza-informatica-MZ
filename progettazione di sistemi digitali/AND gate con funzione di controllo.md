@@ -1,1 +1,1 @@
-#todo 
+Si usa una AND gate con funzione di controllo quando la si inserisce dopo l'output di un'altro circuito in modo che esso sia il suo input, insieme a un secondo segnale in input che decide se annullare il primo segnale o meno.

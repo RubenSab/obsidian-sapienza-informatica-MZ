@@ -11,13 +11,34 @@
             "id": "fa0365e032fc2a89",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "progettazione di sistemi digitali/comparatore (COMP).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "comparatore (COMP)"
+            }
+          },
+          {
+            "id": "a71258d580f23af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "progettazione di sistemi digitali/comparatore (COMP).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "comparatore (COMP)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -29,7 +50,7 @@
       {
         "id": "02fcd87bf8d23f0e",
         "type": "tabs",
-        "dimension": 47.59556103575832,
+        "dimension": 51.048088779284825,
         "children": [
           {
             "id": "6b36e9a938a7c537",
@@ -78,14 +99,16 @@
       {
         "id": "48d1d83a5df92899",
         "type": "tabs",
-        "dimension": 52.40443896424167,
+        "dimension": 48.95191122071517,
         "children": [
           {
             "id": "3a5761119c952f66",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -94,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5094871520996
+    "width": 292.5094871520996
   },
   "right": {
     "id": "26b38658cac3fe47",
@@ -199,43 +222,43 @@
   },
   "active": "3a5761119c952f66",
   "lastOpenFiles": [
+    "progettazione di sistemi digitali/comparatore (COMP).md",
+    "progettazione di sistemi digitali/complementatore.md",
+    "progettazione di sistemi digitali/read only memory (ROM).md",
+    "progettazione di sistemi digitali/addizionatore di riporto per valori in CA2.md",
     "progettazione di sistemi digitali/latch sincrono (gated latch).md",
-    "progettazione di sistemi digitali/latch.md",
     "progettazione di sistemi digitali/latch SR (set-reset).md",
-    "progettazione di sistemi digitali/half adder.md",
+    "progettazione di sistemi digitali/programmable logic array (PLA).md",
+    "progettazione di sistemi digitali/PLA.png",
+    "progettazione di sistemi digitali/PLA.svg",
+    "progettazione di sistemi digitali/comparatore.svg",
+    "progettazione di sistemi digitali/comparator.webp",
+    "progettazione di sistemi digitali/decodificatore (DEC).md",
+    "progettazione di sistemi digitali/demultiplexer (DEMUX).md",
+    "progettazione di sistemi digitali/multiplexer (MUX).md",
+    "progettazione di sistemi digitali/codificatore (ENC).md",
+    "progettazione di sistemi digitali/addizionatore a propagazione di riporto (ripple carry adder).md",
+    "progettazione di sistemi digitali/AND gate con funzione di controllo.md",
     "progettazione di sistemi digitali/reti sequenziali.md",
+    "progettazione di sistemi digitali/latch.md",
+    "progettazione di sistemi digitali/latch_sincrono.svg",
+    "progettazione di sistemi digitali/unità aritmetico logica (ALU).md",
+    "progettazione di sistemi digitali/Full-Adder.png",
+    "progettazione di sistemi digitali/progettazione di sistemi digitali.md",
+    "progettazione di sistemi digitali/full adder (FA).md",
+    "progettazione di sistemi digitali/half adder (HA).md",
+    "progettazione di sistemi digitali/ALU.svg",
+    "progettazione di sistemi digitali/ALU(1).svg",
+    "progettazione di sistemi digitali/moduli standard.md",
+    "progettazione di sistemi digitali/bus.md",
     "progettazione di sistemi digitali/latch_tagliato.svg",
     "progettazione di sistemi digitali/latch.svg",
-    "progettazione di sistemi digitali/multiplexer (MUX).md",
     "progettazione di sistemi digitali/complementazione.md",
     "progettazione di sistemi digitali/file_grabber.py",
-    "progettazione di sistemi digitali/unità aritmetico logica (ALU).md",
-    "progettazione di sistemi digitali/moduli standard.md",
-    "progettazione di sistemi digitali/decodificatore (DEC).md",
-    "complementatore.md",
-    "progettazione di sistemi digitali/complementatore.svg",
     "progettazione di sistemi digitali/unità di misura del sistema binario.md",
     "calcolo differenziale/funzione continua.md",
     "calcolo differenziale/limiti di funzioni.md",
-    "progettazione di sistemi digitali/programmable logic array (PLA).md",
     "progettazione di sistemi digitali/addizionatori.md",
-    "progettazione di sistemi digitali/addizionatore di riporto per valori in CA2.md",
-    "progettazione di sistemi digitali/addizionatore a propagazione di riporto (ripple carry adder).md",
-    "progettazione di sistemi digitali/comparatore (COMP).md",
-    "calcolo differenziale/teorema ponte.md",
-    "progettazione di sistemi digitali/codificatore (ENC).md",
-    "progettazione di sistemi digitali/demultiplexer (DEMUX).md",
-    "progettazione di sistemi digitali/multiplexer.svg",
-    "progettazione di sistemi digitali/read only memory (ROM).md",
-    "metodi matematici per l'informatica/esempi di formule.md",
-    "metodi matematici per l'informatica/logica proposizionale.md",
-    "metodi matematici per l'informatica/implicazione materiale.md",
-    "progettazione di sistemi digitali/demux2.svg",
-    "progettazione di sistemi digitali/2mux.svg",
-    "progettazione di sistemi digitali/demultiplexer.svg",
-    "progettazione di sistemi digitali/multiplexer_con_decodificatore.svg",
-    "progettazione di sistemi digitali/multiplexed.svg",
-    "progettazione di sistemi digitali/encoder.svg",
     "fondamenti di programmazione/esercizi/tmpl0118azz",
     "fondamenti di programmazione/esercizi/tmplvtzz79j",
     "fondamenti di programmazione/esercizi/tmpglv2fjcz",

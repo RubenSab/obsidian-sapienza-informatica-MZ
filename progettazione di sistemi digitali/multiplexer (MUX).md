@@ -9,7 +9,7 @@ Viene prodotto con una serie di [[AND gate con funzione di controllo]], in cui l
 ![[multiplexer.svg]]
 # multiplexer con [[decodificatore (DEC)]]
 
-#todo aggiungi descrizione
+> Riceve $n$ linee in ingresso e $\log_{2}{n}$ linee di selezione (di cui una sola vale 1) che scelgono il segnale da mandare in output in base al suo indice (esempio: selezione = 10 -> output = valore dell'ingresso numero 2), e in output ritorna la linea di ingresso scelta dalle linee di selezione.
 
 ![[multiplexer_con_decodificatore.svg]]
 
