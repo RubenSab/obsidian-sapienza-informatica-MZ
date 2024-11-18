@@ -1,11 +1,10 @@
-- [[decodificatore (dec)]]
-- [[codificatore (enc)]]
-- [[multiplexer (mux)]]
-- [[demultiplexer (demux)]]
-
-
+- [[complementatore]]
+- [[decodificatore (DEC)]]
+- [[codificatore (ENC)]]
+- [[multiplexer (MUX)]]
+- [[demultiplexer (DEMUX)]]
 - [[read only memory (ROM)]]
-- [[pla]]
-
+- [[programmable logic array (PLA)]]
+- [[comparatore (COMP)]]
 - [[registri di memorizzazione]]
 - [[registri contatori]]

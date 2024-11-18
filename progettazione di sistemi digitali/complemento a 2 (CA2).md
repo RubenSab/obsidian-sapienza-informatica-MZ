@@ -6,7 +6,7 @@
 | 001   | 1   | 1                                                                                               |
 | 010   | 2   | 2                                                                                               |
 | 011   | 3   | 3                                                                                               |
-| 100   | 4   | -4 (oppure non viene considerato, è una scelta di chi costruisce l'[[unità aritmetico logica]]) |
+| 100   | 4   | -4 (oppure non viene considerato, è una scelta di chi costruisce l'[[unità aritmetico logica (ALU)]]) |
 | 101   | 5   | -3                                                                                              |
 | 110   | 6   | -2                                                                                              |
 | 111   | 7   | -1                                                                                              |

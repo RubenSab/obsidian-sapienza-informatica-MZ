@@ -1,4 +1,4 @@
-- Il sistema affermato per rappresentare le operazioni aritmetiche è il [[complemento a 2 (CA2)]]; altri sistemi meno efficienti ma comunque utilizzati in alcune [[unità aritmetico logica|unità aritmetico logiche]] sono il [[modulo e segno (MS)]] e il [[complemento a 1 (CA1)]].
+- Il sistema affermato per rappresentare le operazioni aritmetiche è il [[complemento a 2 (CA2)]]; altri sistemi meno efficienti ma comunque utilizzati in alcune [[unità aritmetico logica (ALU)|unità aritmetico logiche]] sono il [[modulo e segno (MS)]] e il [[complemento a 1 (CA1)]].
 
 | 3 bit | bin | MS  | CA1 | CA2 |
 | ----- | --- | --- | --- | --- |
