@@ -2,3 +2,4 @@
 
 - [[latch SR (set-reset)]]
 - [[latch sincrono (gated latch)]]
+- [[master-slave latch (o flip-flop SR)]]

@@ -6,7 +6,7 @@ $$\lim_{n\rightarrow +\infty}{a_{n}=L}\iff \forall\varepsilon > 0\ \ \ \ \exists
 $$\lim_{n\rightarrow +\infty}{f(x)}=L \iff \forall\varepsilon > 0\ \ \ \ \exists x_{\varepsilon}\in\mathbb{R}|\ |f(x)-L|\leq \varepsilon\ \ \ \ \forall x \geq x_{\varepsilon}$$
 # teorema "dell'esistenza del limite"
 $$\lim_{x\rightarrow x_{0}}{f(x)}=\blacksquare \iff \lim_{x\rightarrow x_{0}^+}{f(x)}=\blacksquare = \lim_{x\rightarrow x_{0}^-}{f(x)}$$
-- [[funzione continua]]
+- [[funzione continua e discontinua]]
 # possibili limiti di una funzione
 #todo inserire definizioni
 

@@ -1,0 +1,1 @@
+Sia $f: [a, b]$ una funzione continua. La funzione assume tutti i valori tra $f(a)$ e $f(b)$.  

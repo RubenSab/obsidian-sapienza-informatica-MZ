@@ -5,3 +5,6 @@ Esempio: in un [[addizionatore a propagazione di riporto (ripple carry adder)]],
 > N.B.: nelle reti combinatorie, l'output di una porta (seppur fatto passare prima per altre porte) non può diventare l'input di una porta che lo ha prodotto.
 
 D'altra parte, nelle reti sequenziali, ciò avviene tramite la ***linea di feedback*** (o di controreazione), tramite il circuito di [[latch]].
+
+- [[rete sequenziale generica.canvas|rete sequenziale generica]]
+- [[analisi di una rete sequenziale]]

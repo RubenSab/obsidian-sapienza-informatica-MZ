@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"b2b3f576313b1e18","type":"text","text":"Rete combinatoria","x":-240,"y":-180,"width":210,"height":60},
+		{"id":"70ff27fa05b04d76","type":"text","text":"memoria","x":400,"y":-180,"width":140,"height":57},
+		{"id":"c62d02f730084596","type":"text","text":"valori di memoria $y_{n-1}...y_{o}$","x":100,"y":-40,"width":280,"height":60},
+		{"id":"414ef3a82a7b4c8b","type":"text","text":"output $z_{n-1}...z_{0}$: dipendono dagli input e dai valori di memoria. Rappresentano lo stato di memoria","x":80,"y":-380,"width":320,"height":120},
+		{"id":"0d7350b29003c72c","type":"text","text":"input $x_{n-1}...x_0$","x":-560,"y":-180,"width":190,"height":60},
+		{"id":"577cd930f51d3674","type":"text","text":"funzioni di ecccitazione","x":80,"y":-220,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f3f3115b133baa60","fromNode":"b2b3f576313b1e18","fromSide":"right","toNode":"70ff27fa05b04d76","toSide":"left"},
+		{"id":"598b9854a6eee541","fromNode":"70ff27fa05b04d76","fromSide":"bottom","toNode":"b2b3f576313b1e18","toSide":"left"},
+		{"id":"3210a3c2ab4ad04e","fromNode":"0d7350b29003c72c","fromSide":"right","toNode":"b2b3f576313b1e18","toSide":"left"},
+		{"id":"1112891a0baba4f1","fromNode":"b2b3f576313b1e18","fromSide":"right","toNode":"414ef3a82a7b4c8b","toSide":"left"}
+	]
+}

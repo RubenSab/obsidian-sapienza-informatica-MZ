@@ -26,8 +26,6 @@ $f: A \rightarrow B$
 
 >Data $f:A\rightarrow B$ iniettiva e suriettiva esiste la funzione inversa $f^-1:B\rightarrow A$, che ha la proprietà: $$f^{-1}(f(x))=x\ \forall x \in A$$$$f(f^{-1}(x))=x\ \forall x \in A$$
 
-
-
 # composizione delle funzioni
 $f: A \rightarrow B$
 $g: B  \rightarrow C$
@@ -35,3 +33,7 @@ $g: B  \rightarrow C$
 $g \circ f: A \rightarrow B \rightarrow C$
 $g \circ f: A \rightarrow C$
 $x\rightarrow g(f(x))$
+
+# teoremi delle funzioni
+- [[teorema dell'esistenza degli zeri]]
+- [[teorema dei valori intermedi]]

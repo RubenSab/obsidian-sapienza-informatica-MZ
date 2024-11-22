@@ -2,12 +2,14 @@
 
 ![[latch.svg]]
 
-| s   | r   | stato                                              |
-| --- | --- | -------------------------------------------------- |
-| 0   | 0   | memorizzazione (stato set o reset)                 |
-| 0   | 1   | reset (uno dei due stati di funzionamento normale) |
-| 1   | 0   | set (uno dei due stati di funzionamento normale)   |
-| 1   | 1   | CONFIGURAZIONE PROIBITA                            |
+> N.B.: Lo stato del [[flip-flop]] è determinato dall'uscita superiore (y)
+
+| s   | r   | stato                                                                                                                                                                                                                                                                         |
+| --- | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0   | 0   | memorizzazione (stato set o reset)                                                                                                                                                                                                                                            |
+| 0   | 1   | reset (uno dei due stati di funzionamento normale)                                                                                                                                                                                                                            |
+| 1   | 0   | set (uno dei due stati di funzionamento normale)                                                                                                                                                                                                                              |
+| 1   | 1   | C̶̦̙̤͓̝̾̂̇̅̈́̓͋̕O̶̘̱̰̖̔̔͆̑̎̀̿̕ͅN̴͕̹̖̘͓̿͑F̸͎̺̎Ȋ̴̖͔͕̎̍͝ͅG̴̡̟̜̗͇̖̐̈͋̉́͐̈́̕͠U̵̥͕̟͊͗̒͑̎̕͝͝Ṛ̸̩͌̂͆̏̾̚Á̷̦͕̰̼̥̽ͅͅZ̶͕̽͐̄͂͜Í̴̜̀Ö̶̧̨͔̭͇͎́͝Ņ̸͎̝̙̜̚E̶̝̙̣͕̮͚̮͂ ̷̡̛̘͓͇̦̫̻̈́̍̋͛̂̏̕͠P̴͓̝͇̙̥̜̙̜̦̊́͂̐͌̽̀̀̂Ŗ̴̧͕̲̥͈̲͗̿͝O̷̡̧͇̭̭͕̍͑̑̂̆̄͘̕͜͠Ỉ̸̭͕̠͇̖B̸̫̭̻̏̈́͌͝Ĭ̴̻̣̠͉̓͊̕͝Ṯ̶̛̊̓̄̐̈́͋̏̕A̵̡̗͚̖͔̥͍͌̉́̒͠ |
 
 
 ```
