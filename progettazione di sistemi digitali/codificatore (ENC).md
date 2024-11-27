@@ -4,7 +4,7 @@
 
 > Funzionamento inverso al [[decodificatore (DEC)]].
 
-Il circuito si può rappresentare in modo più chiaro usando una *matrice di AND*: #todo inserire foto
+Il circuito si può rappresentare in modo più chiaro usando una *matrice di AND*: #toadd inserire foto
 
 ## Esempio a 2 entrate
 

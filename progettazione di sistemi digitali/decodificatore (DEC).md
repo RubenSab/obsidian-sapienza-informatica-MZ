@@ -4,7 +4,7 @@
 
 > Un decodificatore che associa 1 alla porta il cui numero è indicato dai bit in entrata, e 0 a tutte le altre.
 
-Il circuito si può rappresentare in modo più chiaro usando una *matrice di OR*: #todo inserire foto
+Il circuito si può rappresentare in modo più chiaro usando una *matrice di OR*: #toadd inserire foto
 
 ## Esempio a 2 entrate
 

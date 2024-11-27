@@ -7,7 +7,12 @@ Data una [[rete sequenziale generica.canvas|rete sequenziale generica]] si appli
 	- stati futuri dei flip-flop. (si ricavano usando le tavole dei flip-flop)
 
 
-- [[diagramma della rete tramite automa degli stati finiti]]
+
+- diagramma della rete [[automi a stati finiti (finite state automata) con output]]
 - [[diagramma della "macchina" con astrazione dai valori binari]]
 - [[minimizzazione dell'automa a stati finiti]]
-Grazie all'analisi compiuta, si può verificare se l'[[automa a stati finiti]] è stato realizzato con il minore numero di flip flop.
+
+Grazie all'analisi compiuta, si può verificare se l'[[automi a stati finiti (finite state automata) con output]] è stato realizzato con il minore numero di flip flop.
+
+- [[esempio di analisi di una rete sequenziale (automa contatore)]]
+- [[esempio di analisi di una rete sequenziale (automa riconoscitore)]]

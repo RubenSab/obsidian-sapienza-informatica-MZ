@@ -1,0 +1,4 @@
+- [[half adder (HA)]]
+- [[full adder (FA)]]
+- [[addizionatore a propagazione di riporto (ripple carry adder)]]
+- [[addizionatore di riporto per valori in CA2]]

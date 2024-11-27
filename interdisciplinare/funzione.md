@@ -37,3 +37,5 @@ $x\rightarrow g(f(x))$
 # teoremi delle funzioni
 - [[teorema dell'esistenza degli zeri]]
 - [[teorema dei valori intermedi]]
+- [[teorema di Weierstrass]]
+- [[teorema di Weierstrass + Valori Intermedi generalizzati]]

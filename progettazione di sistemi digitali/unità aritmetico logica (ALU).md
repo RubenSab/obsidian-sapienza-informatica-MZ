@@ -2,12 +2,6 @@
 
 > All'interno delle ALU è SEMPRE presente un [[full adder (FA)]].
 
-# esempio di ALU con bus a 2 bit
-
-![[ALU.svg]]
-# esempio di ALU con bus a 3 bit in input
-#todo
-
 | bit | prodotti dell'ALU (stato) |
 | --- | ------------------------- |
 | N   | risultato negativo        |
@@ -27,7 +21,6 @@ Rin ->|                 |-> W
 			   v
                R (risultato)
 ```
-
 ## input:
 - $A$
 - $B$
@@ -55,6 +48,8 @@ Rin ->|                 |-> W
 | 1     | 1     | 0        | $A+\overline B$            |
 | 1     | 1     | 1        | $A-B$                      |
 
-|     |     |
-| --- | --- |
-|     |     |
+# esempio di ALU con bus a 2 bit
+
+![[ALU.svg]]
+# esempio di comparatore (componente di un'ALU con bus a 3 bit in input)
+![[ALU massini.svg]]

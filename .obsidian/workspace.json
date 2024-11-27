@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df009452ba9d22bc",
+        "id": "ecada69e72e76cb6",
         "type": "tabs",
         "children": [
           {
-            "id": "3736f6059a4fec58",
+            "id": "93e2ea418e5083dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,37 +23,16 @@
             }
           },
           {
-            "id": "2b29b4f792c6fa33",
+            "id": "aace631a20e26388",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "progettazione di sistemi digitali/analisi di una rete sequenziale.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "analisi di una rete sequenziale"
-            }
-          },
-          {
-            "id": "e04fc37e636778dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "progettazione di sistemi digitali/flip-flop toggle (T).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "flip-flop toggle (T)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5094871520996
+    "width": 292.5094871520996,
+    "collapsed": true
   },
   "right": {
     "id": "26b38658cac3fe47",
@@ -148,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#toadd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,46 +215,46 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2b29b4f792c6fa33",
+  "active": "93e2ea418e5083dd",
   "lastOpenFiles": [
-    "automa a stati finiti.md",
-    "progettazione di sistemi digitali/analisi di una rete sequenziale.md",
     "progettazione di sistemi digitali/flip-flop JK.md",
-    "progettazione di sistemi digitali/reti sequenziali.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "progettazione di sistemi digitali/rete sequenziale generica.canvas",
+    "progettazione di sistemi digitali/flip-flop delay (D).md",
+    "progettazione di sistemi digitali/tabelle inverse dei flip flop.md",
     "progettazione di sistemi digitali/flip-flop.md",
-    "progettazione di sistemi digitali/flip-flop delay.md",
-    "progettazione di sistemi digitali/master-slave latch (o flip-flop SR).md",
-    "progettazione di sistemi digitali/flip-flop toggle (T).md",
-    "progettazione di sistemi digitali/flip flop JK.svg",
-    "flip flop JK.svg",
-    "progettazione di sistemi digitali/latch.md",
     "progettazione di sistemi digitali/latch SR (set-reset).md",
-    "progettazione di sistemi digitali/latch sincrono (gated latch).md",
-    "calcolo differenziale/teorema dell'esistenza degli zeri.md",
-    "calcolo differenziale/teorema dei valori intermedi.md",
-    "interdisciplinare/funzione.md",
-    "progettazione di sistemi digitali/unità aritmetico logica (ALU).md",
-    "progettazione di sistemi digitali/ALU.svg",
-    "README.md",
-    "calcolo differenziale/limiti di funzioni.md",
-    "calcolo differenziale/funzione continua e discontinua.md",
-    "search.py",
-    "calcolo differenziale/limiti notevoli delle funzioni.md",
-    "progettazione di sistemi digitali/comparatore (COMP).md",
-    "progettazione di sistemi digitali/complementatore.md",
+    "progettazione di sistemi digitali/automi a stati finiti (finite state automata) con output.md",
+    "progettazione di sistemi digitali/esempio di progettazione dell'automa della macchina distributrice.md",
+    "progettazione di sistemi digitali/esempio di analisi di una rete sequenziale (automa riconoscitore).md",
+    "interdisciplinare/esempio di analisi di una rete sequenziale (automa contatore).md",
     "progettazione di sistemi digitali/read only memory (ROM).md",
+    "progettazione di sistemi digitali/decodificatore (DEC).md",
+    "progettazione di sistemi digitali/codificatore (ENC).md",
+    "progettazione di sistemi digitali/esercizi/esercizi di progettazione di sistemi digitali.md",
     "progettazione di sistemi digitali/addizionatore di riporto per valori in CA2.md",
-    "progettazione di sistemi digitali/programmable logic array (PLA).md",
-    "progettazione di sistemi digitali/PLA.png",
-    "progettazione di sistemi digitali/PLA.svg",
+    "progettazione di sistemi digitali/addizionatori (adder).md",
+    "progettazione di sistemi digitali/comparatore (COMP).md",
+    "progettazione di sistemi digitali/ripple carry adder CA2.svg",
+    "progettazione di sistemi digitali/ripple c adder CA2(1).svg",
+    "ripple c adder CA2(1).svg",
+    "progettazione di sistemi digitali/unità aritmetico logica (ALU).md",
+    "comparatore.svg",
+    "progettazione di sistemi digitali/ALU massini.svg",
+    "progettazione di sistemi digitali/complemento a 2 (CA2).md",
+    "progettazione di sistemi digitali/logic gates.png",
     "progettazione di sistemi digitali/comparatore.svg",
-    "progettazione di sistemi digitali/comparator.webp",
-    "progettazione di sistemi digitali/latch_sincrono.svg",
-    "progettazione di sistemi digitali/Full-Adder.png",
-    "progettazione di sistemi digitali/ALU(1).svg",
+    "progettazione di sistemi digitali/ripple c adder CA2.svg",
+    "ripple c adder CA2.svg",
+    "progettazione di sistemi digitali/complementatore.md",
+    "progettazione di sistemi digitali/addizionatore a propagazione di riporto (ripple carry adder).md",
+    "progettazione di sistemi digitali/full adder (FA).md",
+    "progettazione di sistemi digitali/latch.md",
+    "progettazione di sistemi digitali/master-slave latch (o flip-flop SR).md",
+    "progettazione di sistemi digitali/latch sincrono (gated latch).md",
+    "progettazione di sistemi digitali/analisi di una rete sequenziale.md",
+    "progettazione di sistemi digitali/Gray code.md",
+    "progettazione di sistemi digitali/rete sequenziale 2.svg",
+    "progettazione di sistemi digitali/rete sequenziale generica.canvas",
+    "search.py",
     "progettazione di sistemi digitali/file_grabber.py",
     "fondamenti di programmazione/esercizi/tmpl0118azz",
     "fondamenti di programmazione/esercizi/tmplvtzz79j",
