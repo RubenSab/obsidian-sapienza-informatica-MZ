@@ -4,21 +4,21 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:todo",
       "color": {
         "a": 1,
-        "rgb": 15710977
+        "rgb": 10158575
       }
     },
     {
       "query": "tag:toadd",
       "color": {
         "a": 1,
-        "rgb": 14713938
+        "rgb": 14701269
       }
     },
     {
@@ -67,6 +67,6 @@
   "repelStrength": 13.1947643390821,
   "linkStrength": 0.682620759238239,
   "linkDistance": 178,
-  "scale": 0.11219082753320676,
+  "scale": 0.05384424575511446,
   "close": true
 }

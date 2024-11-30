@@ -22,7 +22,9 @@ Esempio:
 1    0   1
 ```
 
-- L'[[overflow]] si verifica se gli operandi sono concordi ma il segno del risultato dell'addizione è diverso da quello del risultato effettivo.
+- L'[[overflow]] si verifica:
+  - se il risultato è troppo grande per essere rappresentato da $n$ bit o
+  - se gli operandi sono concordi ma il segno del risultato dell'addizione è diverso da quello del risultato effettivo.
 
 ```
 2-2 = 0 -> 2+(-2) = 0
