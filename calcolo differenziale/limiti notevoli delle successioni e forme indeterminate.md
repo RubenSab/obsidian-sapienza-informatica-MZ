@@ -1,5 +1,5 @@
 
-Se $a_n\rightarrow \infty, A\in \mathbb{R}$
+Se la [[successione]] $a_n\rightarrow \infty, A\in \mathbb{R}$
 $$\lim_{n\rightarrow +\infty} (1+\frac{A}{a_n})^{a_n}=e^A$$
 - $\infty\bullet0$
 - $\infty-\infty$

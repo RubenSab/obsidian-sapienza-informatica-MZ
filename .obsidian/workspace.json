@@ -4,86 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "ecada69e72e76cb6",
+        "id": "a5c43221d254792a",
         "type": "tabs",
         "children": [
           {
-            "id": "93e2ea418e5083dd",
+            "id": "9d1e3f7862bbc826",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "progettazione di sistemi digitali/flip-flop JK.md",
-                "mode": "source",
+                "file": "calcolo differenziale/funzione derivabile.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flip-flop JK"
-            }
-          },
-          {
-            "id": "aace631a20e26388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "progettazione di sistemi digitali/read only memory (ROM).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "read only memory (ROM)"
-            }
-          },
-          {
-            "id": "8b331b71f4cbfa5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "progettazione di sistemi digitali/addizionatore di riporto per valori in CA2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "addizionatore di riporto per valori in CA2"
-            }
-          },
-          {
-            "id": "af457ea717410b39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "progettazione di sistemi digitali/multiplexer (MUX).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "multiplexer (MUX)"
-            }
-          },
-          {
-            "id": "9c52e34a0f1d59f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "progettazione di sistemi digitali/programmable logic array (PLA).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "programmable logic array (PLA)"
+              "title": "funzione derivabile"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5094871520996,
-    "collapsed": true
+    "width": 292.5094871520996
   },
   "right": {
     "id": "26b38658cac3fe47",
@@ -179,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#toadd",
+                "query": "jk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -266,18 +204,40 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "aace631a20e26388",
+  "active": "3a5761119c952f66",
   "lastOpenFiles": [
-    "progettazione di sistemi digitali/programmable logic array (PLA).md",
-    "progettazione di sistemi digitali/mappa di Karnaugh.md",
-    "progettazione di sistemi digitali/read only memory (ROM).md",
-    "progettazione di sistemi digitali/addizionatore di riporto per valori in CA2.md",
-    "progettazione di sistemi digitali/multiplexer (MUX).md",
-    "progettazione di sistemi digitali/ROM.jpg",
-    "progettazione di sistemi digitali/latch SR (set-reset).md",
-    "progettazione di sistemi digitali/complemento a 2 (CA2).md",
-    "progettazione di sistemi digitali/ALU Massini.svg",
+    "calcolo differenziale/funzione derivabile.md",
+    "calcolo differenziale/leggi della monotonia.md",
+    "metodi matematici per l'informatica/logica predicativa.md",
     "progettazione di sistemi digitali/unità aritmetico logica (ALU).md",
+    "metodi matematici per l'informatica/metodi matematici per l'informatica.md",
+    "metodi matematici per l'informatica/logica proposizionale.md",
+    "interdisciplinare/algebra di Boole.md",
+    "metodi matematici per l'informatica/esempi di formule.md",
+    "Untitled.md",
+    "progettazione di sistemi digitali/read only memory (ROM).md",
+    "progettazione di sistemi digitali/latch SR (set-reset).md",
+    "masi.md",
+    "progettazione di sistemi digitali/diagramma temporale di reti sequenziali.md",
+    "progettazione di sistemi digitali/flip-flop.md",
+    "progettazione di sistemi digitali/flip-flop (JK).md",
+    "progettazione di sistemi digitali/flip-flop delay (D).md",
+    "progettazione di sistemi digitali/segnali a onda quadra.md",
+    "progettazione di sistemi digitali/sintesi di reti sequenziali.md",
+    "progettazione di sistemi digitali/programmable logic array (PLA).md",
+    "ROM.svg",
+    "progettazione di sistemi digitali/ROM.svg",
+    "progettazione di sistemi digitali/multiplexer (MUX).md",
+    "progettazione di sistemi digitali/decodificatore (DEC).md",
+    "progettazione di sistemi digitali/codificatore (ENC).md",
+    "progettazione di sistemi digitali/demultiplexer (DEMUX).md",
+    "progettazione di sistemi digitali/ALU Massini.svg",
+    "progettazione di sistemi digitali/ALU massini.svg",
+    "ALU massini.svg",
+    "progettazione di sistemi digitali/operazioni con numeri in virgola mobile.md",
+    "progettazione di sistemi digitali/rappresentazione o codifica di numeri con la virgola.md",
+    "progettazione di sistemi digitali/esempio di progettazione dell'automa della macchina distributrice.md",
+    "progettazione di sistemi digitali/ROM.jpg",
     "ALU Massini.svg",
     "progettazione di sistemi digitali/Logigator_ Editor.html",
     "progettazione di sistemi digitali/Logigator_ Editor_files/close.svg",
@@ -288,29 +248,7 @@
     "progettazione di sistemi digitali/Logigator_ Editor_files/vcd15cbe7772f49c399c6a5babf22c1241717689176015.js",
     "progettazione di sistemi digitali/Logigator_ Editor_files/main-ZANDHLQ2.js",
     "progettazione di sistemi digitali/Logigator_ Editor_files/js",
-    "progettazione di sistemi digitali/Logigator_ Editor_files/default-user.svg",
     "progettazione di sistemi digitali/Logigator_ Editor_files",
-    "progettazione di sistemi digitali/comparatore.svg",
-    "progettazione di sistemi digitali/complementatore.md",
-    "progettazione di sistemi digitali/addizionatori (adder).md",
-    "progettazione di sistemi digitali/ALU massini.svg",
-    "progettazione di sistemi digitali/flip-flop JK.md",
-    "progettazione di sistemi digitali/flip-flop delay (D).md",
-    "progettazione di sistemi digitali/tabelle inverse dei flip flop.md",
-    "progettazione di sistemi digitali/flip-flop.md",
-    "progettazione di sistemi digitali/automi a stati finiti (finite state automata) con output.md",
-    "progettazione di sistemi digitali/esempio di progettazione dell'automa della macchina distributrice.md",
-    "progettazione di sistemi digitali/esempio di analisi di una rete sequenziale (automa riconoscitore).md",
-    "interdisciplinare/esempio di analisi di una rete sequenziale (automa contatore).md",
-    "progettazione di sistemi digitali/decodificatore (DEC).md",
-    "progettazione di sistemi digitali/codificatore (ENC).md",
-    "progettazione di sistemi digitali/esercizi/esercizi di progettazione di sistemi digitali.md",
-    "progettazione di sistemi digitali/comparatore (COMP).md",
-    "progettazione di sistemi digitali/ripple carry adder CA2.svg",
-    "progettazione di sistemi digitali/addizionatore a propagazione di riporto (ripple carry adder).md",
-    "progettazione di sistemi digitali/full adder (FA).md",
-    "progettazione di sistemi digitali/latch.md",
-    "progettazione di sistemi digitali/master-slave latch (o flip-flop SR).md",
     "progettazione di sistemi digitali/rete sequenziale generica.canvas",
     "search.py",
     "progettazione di sistemi digitali/file_grabber.py",

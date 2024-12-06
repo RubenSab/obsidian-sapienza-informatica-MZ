@@ -16,5 +16,5 @@ Il circuito si può rappresentare in modo più chiaro usando una *matrice di OR*
 | 1   | 1   | 1   | 0   | 0   | 0   |
 ![[decoder.svg]]
 
-# codificatore non standard
+# decodificatore non standard
 La regola che lega le entrate e le uscite è diversa, come può essere diverso anche il numero di porte di uscita in relazione a quelle di entrata.

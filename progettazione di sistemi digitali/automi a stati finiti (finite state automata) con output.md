@@ -8,6 +8,8 @@ Esempio: (0, 01) -> 01
 
 - $U$ è l'alfabeto finito di uscita
 - $\lambda$ è la ***funzione di uscita*** $\lambda: \Sigma \times Q \rightarrow U$
+#toadd 
+![[diagramma mealy.png]]
 # modello di Moore
 Differisce dal modello di Mealy solo per la funzione di uscita $\lambda$,  qui definita come $\lambda ': Q \rightarrow U$
 

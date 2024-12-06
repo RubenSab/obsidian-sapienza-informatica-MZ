@@ -7,4 +7,6 @@ Esempio: in un [[addizionatore a propagazione di riporto (ripple carry adder)]],
 D'altra parte, nelle reti sequenziali, ciò avviene tramite la ***linea di feedback*** (o di controreazione), tramite il circuito di [[latch]].
 
 - [[rete sequenziale generica.canvas|rete sequenziale generica]]
-- [[analisi di una rete sequenziale]]
+- [[analisi di reti sequenziali]]
+- [[sintesi di reti sequenziali]]
+- [[diagramma temporale di reti sequenziali]]

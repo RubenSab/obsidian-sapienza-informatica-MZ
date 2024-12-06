@@ -17,8 +17,6 @@ Es: $[1,1]=\{1\}$
 >$I$ è un intervallo illimitato in $R$ se almeno un'estremo è infinito.
 - Il superiore di un'intervallo illimitato a destra è $+\infty$ e $-\infty$ se è illimitato a sinistra.
 - Il massimo di un'intervallo illimitato a destra e ili minimo di un'intervallo illimitato a sinistra non esistono.
-
-[[esercizio con intervalli, min e max]]
 # consistenza fra le notazioni
 $$(a,b)=(inf(I),sup(I))=\{x\in\mathbb{R}|a<x<b\}=(a,b)$$
 - [[distanza fra x e y sulla linea numerica]]

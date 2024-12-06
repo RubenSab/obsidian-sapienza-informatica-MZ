@@ -1,5 +1,5 @@
 # teorema di unicità del limite
-> Se il limite esiste, allora è unico.
+> Se il limite della [[successione]] esiste, allora è unico.
 
 Esempio: $a_{n}=\frac{1}{{n+1}}$
 $\lim_{n\rightarrow+\infty}{\frac{1}{{n+1}}=0}$
