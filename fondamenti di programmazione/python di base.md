@@ -1,5 +1,0 @@
-- [[anaconda]]
-- [[spyder]]
-- [[ipython]]
-- [[nano text editor]]
-- [[debugging sugli IDE]]

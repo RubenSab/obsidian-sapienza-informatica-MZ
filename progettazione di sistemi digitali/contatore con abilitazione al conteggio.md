@@ -1,0 +1,1 @@
+> Per progettare un [[registri contatori|registro contatore]] che è in grado di fermarsi e riprendere quando arriva un segnale specificato, si può semplicemente aggiungere alla linea del clock (di un qualsiasi contatore) una porta AND con funzione di gating che si attiva solo con un segnale di enable.

@@ -11,7 +11,7 @@
 | 110   | 6   | -2                                                                                              |
 | 111   | 7   | -1                                                                                              |
 
-Si osserva che per rendere un numero negativo bisogna [[complementazione|complementarlo]] e aggiungere 1, così si può trasformare A-B in A+(-B), trattandola come un'addizione.
+> Si osserva che per rendere un numero negativo bisogna [[complementazione|complementarlo]] e aggiungere 1, così si può trasformare A-B in A+(-B), trattandola come un'addizione.
 
 L'intervallo di numeri rappresentabili va da -4 a 0 per 3 bit, e da $[-2^{n-1}, 2^{n-1}-1]$ per $n$ bit.  
 

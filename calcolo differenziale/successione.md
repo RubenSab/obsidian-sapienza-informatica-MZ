@@ -16,3 +16,9 @@ Esempio con Fibonacci:
 - $a_{n+2}=a_{n+1}+a_n$      $0,1,1,2,3,5,8,13,21 ...$
 
 - forma esplicita: $a_n=\frac{1}{\sqrt{5}}(\frac{{\sqrt{5}+1}}{2})-\frac{1}{\sqrt{5}}(\frac{{\sqrt{5}-1}}{2})$
+
+# definizioni e concetti matematici delle successioni
+- [[infiniti e infinitesimi]]
+- [[notazione o-piccolo]]
+- [[notazione O-grande]]
+- [[concetto di asintotico]]

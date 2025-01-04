@@ -7,17 +7,7 @@
 - [[calcolo differenziale]]
 - [[progettazione di sistemi digitali]]
 - [[metodi matematici per l'informatica]]
-- [[fondamenti di programmazione]]
-# studio
-
-|           | RIPASSO DEL GIORNO                      | PER I GIORNI DOPO                       |
-| --------- | --------------------------------------- | --------------------------------------- |
-| LUNEDÌ    | calcolo differenziale, sistemi digitali | metodi matematici                       |
-| MARTEDÌ   | metodi matematici, programmazione       | calcolo differenziale                   |
-| MERCOLEDÌ | programmazione                          | metodi matematici, sistemi digitali     |
-| GIOVEDÌ   | metodi matematici, programmazione       | calcolo differenziale                   |
-| VENERDÌ   | calcolo differenziale, sistemi digitali | metodi matematici                       |
-| SABATO    |                                         | calcolo differenziale, sistemi digitali |
+- (niente appunti per fondamenti di programmazione)
 # orario
 
 |     | LUNEDÌ                                      | MARTEDÌ                                       | MERCOLEDÌ                                                                   | GIOVEDÌ                                       | VENERDÌ                                     |

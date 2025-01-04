@@ -4,25 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "a5c43221d254792a",
+        "id": "930f78b1533a6d2d",
         "type": "tabs",
         "children": [
           {
-            "id": "9d1e3f7862bbc826",
+            "id": "1e8284bbece5404c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "28e1172dd8dc47bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calcolo differenziale/funzione derivabile.md",
+                "file": "progettazione di sistemi digitali/sintesi di reti sequenziali.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "funzione derivabile"
+              "title": "sintesi di reti sequenziali"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,7 +47,6 @@
       {
         "id": "02fcd87bf8d23f0e",
         "type": "tabs",
-        "dimension": 51.048088779284825,
         "children": [
           {
             "id": "6b36e9a938a7c537",
@@ -42,7 +54,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -79,29 +91,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "48d1d83a5df92899",
-        "type": "tabs",
-        "dimension": 48.95191122071517,
-        "children": [
-          {
-            "id": "3a5761119c952f66",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.5094871520996
+    "width": 297.5094871520996
   },
   "right": {
     "id": "26b38658cac3fe47",
@@ -117,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jk",
+                "query": "sintesi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,47 +196,47 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3a5761119c952f66",
+  "active": "28e1172dd8dc47bd",
   "lastOpenFiles": [
-    "calcolo differenziale/funzione derivabile.md",
-    "calcolo differenziale/leggi della monotonia.md",
-    "metodi matematici per l'informatica/logica predicativa.md",
-    "progettazione di sistemi digitali/unità aritmetico logica (ALU).md",
-    "metodi matematici per l'informatica/metodi matematici per l'informatica.md",
-    "metodi matematici per l'informatica/logica proposizionale.md",
-    "interdisciplinare/algebra di Boole.md",
-    "metodi matematici per l'informatica/esempi di formule.md",
-    "Untitled.md",
-    "progettazione di sistemi digitali/read only memory (ROM).md",
-    "progettazione di sistemi digitali/latch SR (set-reset).md",
-    "masi.md",
-    "progettazione di sistemi digitali/diagramma temporale di reti sequenziali.md",
-    "progettazione di sistemi digitali/flip-flop.md",
-    "progettazione di sistemi digitali/flip-flop (JK).md",
-    "progettazione di sistemi digitali/flip-flop delay (D).md",
-    "progettazione di sistemi digitali/segnali a onda quadra.md",
-    "progettazione di sistemi digitali/sintesi di reti sequenziali.md",
-    "progettazione di sistemi digitali/programmable logic array (PLA).md",
-    "ROM.svg",
-    "progettazione di sistemi digitali/ROM.svg",
+    "progettazione di sistemi digitali/sintesi dell'addizionatore sequenziale.md",
+    "progettazione di sistemi digitali/XOR.md",
+    "progettazione di sistemi digitali/altri operatori logici.md",
+    "progettazione di sistemi digitali/NAND e NOR.md",
     "progettazione di sistemi digitali/multiplexer (MUX).md",
     "progettazione di sistemi digitali/decodificatore (DEC).md",
-    "progettazione di sistemi digitali/codificatore (ENC).md",
-    "progettazione di sistemi digitali/demultiplexer (DEMUX).md",
-    "progettazione di sistemi digitali/ALU Massini.svg",
-    "progettazione di sistemi digitali/ALU massini.svg",
-    "ALU massini.svg",
-    "progettazione di sistemi digitali/operazioni con numeri in virgola mobile.md",
-    "progettazione di sistemi digitali/rappresentazione o codifica di numeri con la virgola.md",
-    "progettazione di sistemi digitali/esempio di progettazione dell'automa della macchina distributrice.md",
-    "progettazione di sistemi digitali/ROM.jpg",
-    "ALU Massini.svg",
+    "progettazione di sistemi digitali/read only memory (ROM).md",
+    "progettazione di sistemi digitali/programmable logic array (PLA).md",
+    "interdisciplinare/algebra di Boole.md",
+    "progettazione di sistemi digitali/complemento a 2 (CA2).md",
+    "progettazione di sistemi digitali/unità aritmetico logica (ALU).md",
+    "progettazione di sistemi digitali/registri.md",
+    "progettazione di sistemi digitali/ALU 2.svg",
+    "progettazione di sistemi digitali/automi a stati finiti (finite state automata) con output.md",
+    "progettazione di sistemi digitali/registri contatori.md",
+    "progettazione di sistemi digitali/moduli standard.md",
+    "progettazione di sistemi digitali/sintesi di reti sequenziali.md",
+    "progettazione di sistemi digitali/comparatore (COMP).md",
+    "progettazione di sistemi digitali/criterio di minimalità.md",
+    "progettazione di sistemi digitali/comparatore.svg",
+    "metodi matematici per l'informatica/esempio di formula logica.md",
+    "piano di studi logica.md",
+    "metodi matematici per l'informatica/logica proposizionale.md",
+    "metodi matematici per l'informatica/esempi con situazioni reali.md",
+    "metodi matematici per l'informatica/implicazione materiale.md",
+    "metodi matematici per l'informatica/esempi di formule.md",
+    "metodi matematici per l'informatica/sintassi.md",
+    "progettazione di sistemi digitali/errori in trasmissione.md",
+    "progettazione di sistemi digitali/ASCII.png",
+    "progettazione di sistemi digitali/Untitled.png",
+    "progettazione di sistemi digitali/Logigator_ Editor_files/control-stop.svg",
+    "progettazione di sistemi digitali/All_Bambu_Lab_3D_Printer_Compared_2048x2048.webp",
+    "caricamento seriale.svg",
+    "cariccamento seriale.svg",
+    "progettazione di sistemi digitali/caricamento seriale.svg",
+    "progettazione di sistemi digitali/caricamento con FFSR.svg",
     "progettazione di sistemi digitali/Logigator_ Editor.html",
-    "progettazione di sistemi digitali/Logigator_ Editor_files/close.svg",
     "progettazione di sistemi digitali/Logigator_ Editor_files/polyfills-LZBJRJJE.js",
     "progettazione di sistemi digitali/Logigator_ Editor_files/styles-OSOO62JX.css",
-    "progettazione di sistemi digitali/Logigator_ Editor_files/control-stop.svg",
-    "progettazione di sistemi digitali/Logigator_ Editor_files/logo.svg",
     "progettazione di sistemi digitali/Logigator_ Editor_files/vcd15cbe7772f49c399c6a5babf22c1241717689176015.js",
     "progettazione di sistemi digitali/Logigator_ Editor_files/main-ZANDHLQ2.js",
     "progettazione di sistemi digitali/Logigator_ Editor_files/js",

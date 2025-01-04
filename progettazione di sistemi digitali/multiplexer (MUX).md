@@ -1,6 +1,6 @@
 # multiplexer standard
 
-> Modulo che riceve $n$ linee in ingresso e $n$ linee di selezione (di cui una sola vale 1), e in output ritorna la linea di ingresso scelta dalle linee di selezione.
+> Modulo che riceve $n$ linee in ingresso e $n$ linee di selezione (di cui una sola vale 1), e in output ritorna le linee di ingresso scelte dalle linee di selezione.
 
 Viene prodotto con una serie di [[AND gate con funzione di controllo]], in cui le linee di ingresso sono il segnale da selezionare, e le linee di selezione le selezionano.
 

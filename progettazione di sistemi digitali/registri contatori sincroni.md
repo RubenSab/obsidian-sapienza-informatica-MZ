@@ -1,0 +1,4 @@
+- [[contatore sincrono "in avanti e all'indietro" modulo 2 alla n]]
+- [[contatore bidirezionale]]
+- [[contatore con abilitazione al conteggio]]
+- [[contatore di eventi]]

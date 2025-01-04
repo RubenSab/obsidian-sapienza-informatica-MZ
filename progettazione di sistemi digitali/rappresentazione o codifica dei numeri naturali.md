@@ -5,23 +5,24 @@ Questo limita il numero di informazioni possibili che un registro può codificar
 
 >**ESEMPIO**:
 >Dobbiamo comporre una stringa con solo 3 simboli. Quante stringhe possiamo comporre?
->Dipende dalla [[cardinalità (o potenza)]] dell'alfabeto di [[funzioni di codifica e decodifica|codifica]], ad esempio se abbiamo l'alfabeto binario (Σ = {0, 1}) ne possiamo comporre 2^3, mentre se usiamo l'alfabeto italiano (Σ = {a, b, ..., z}) ne possiamo comporre 21^3.
->Nel primo caso, dato che il registro usa 3 bit, possiamo rappresentare solo 2^3 informazioni diverse (in cui dobbiamo scomporre tutto il flusso di informazioni).
+>Dipende dalla [[cardinalità (o potenza)]] dell'alfabeto di [[funzioni di codifica e decodifica|codifica]], ad esempio se abbiamo l'alfabeto binario (Σ = {0, 1}) ne possiamo comporre $2^3$, mentre se usiamo l'alfabeto italiano (Σ = {a, b, ..., z}) ne possiamo comporre $21^3$.
+>Nel primo caso, dato che il registro usa 3 bit, possiamo rappresentare solo $2^3$ informazioni diverse (in cui dobbiamo comporre/$scomporre tutto il flusso di informazioni).
 
 Il modo naturale di codificare i numeri naturali in binario, è contando usando l'ordine posizionale, proprio dei [[sistemi numerici posizionali]].
 
-0 0000
-1 0001 = 2^0 
-2 0010 = 2^1 
+0(10) = 0000(2)
+1(10) = 0001(2) = 2^0 
+2(10) = 0010(2) = 2^1 
 ... ...
-15 1111 = 2^3 + 2^2 + 2^1 + 2^0 
+15(10) 1111(2) = 2^3 + 2^2 + 2^1 + 2^0 
 
 >**ESEMPIO**: decodificando 101101 si ottiene 2^0 + 2^2 + 2^3 + 2^5 = 1+4+8+32 = 45
->**ESEMPIO**: non si può decodificare un numero non sapendone la base: 312 sarà al minimo di base 4, perché troviamo il simbolo 3, cioè 4-1 (base-1). Supponiamo che sia in base 4 -> 3x4^2 + 1x4^1 +2x4^0 = 54 (base 10)
+>**ESEMPIO**: non si può decodificare un numero non sapendone la base: 312 sarà al minimo di base 4, perché troviamo il simbolo 3, cioè 4-1 (base-1).
+>Supponiamo che sia in base 4 -> 3x4^2 + 1x4^1 +2x4^0 = 54 (base 10)
 
 # come de/codificare i numeri da una base n a una base m
 Dividendolo per m e appuntandosi il resto in una colonna a ogni divisione finché si raggiunge l'uno
->**ESEMPIO**: 26b10 = 11010b2
+>**ESEMPIO**: 26(10) = 11010(2)
 
 ```
 26|0

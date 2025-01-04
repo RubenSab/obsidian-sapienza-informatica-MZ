@@ -1,0 +1,1 @@
+- [[sintesi dell'addizionatore sequenziale]]

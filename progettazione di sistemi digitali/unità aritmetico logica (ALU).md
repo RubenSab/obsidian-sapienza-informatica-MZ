@@ -51,7 +51,7 @@ Rin ->|                 |-> W
 | 1     | 0     | 1        | $A+B+1\ (=\overline{A+B})$ |
 | 1     | 1     | 0        | $A+\overline B$            |
 | 1     | 1     | 1        | $A-B$                      |
-![[ALU Massini.svg]]
+![[ALU 2.svg]]
 # altro esempio di ALU
 
 ![[ALU.svg]]
