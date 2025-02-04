@@ -1,4 +1,5 @@
-$$[f +- g]'=f'+-g'$$
-$$[f \bullet g]'=f'g + fg'$$
-$$[\frac{f}{g}]'=\frac{f'g-fg'}{g^2}$$
-$$[f(g)]'=f'(x)\bullet g'$$
+- $\frac{d}{dx} \left( f(x) \pm g(x) \right) = f'(x) \pm g'(x)$.
+- $\frac{d}{dx} \left( f(x) \cdot g(x) \right) = f'(x) \cdot g(x) + f(x) \cdot g'(x)$.
+- $\frac{d}{dx} \left( \frac{f(x)}{g(x)} \right) = \frac{f'(x) \cdot g(x) - f(x) \cdot g'(x)}{(g(x))^2}$.
+- $\frac{d}{dx} \left( f(g(x)) \right) = f'(g(x)) \cdot g'(x)$.
+- $\frac{d}{dx} \left( f(x)^{g(x)} \right) = f(x)^{g(x)} \cdot \left( g'(x) \ln(f(x)) + \frac{g(x) \cdot f'(x)}{f(x)} \right)$

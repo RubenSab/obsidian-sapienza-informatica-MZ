@@ -5,7 +5,7 @@
 	- *rising edge triggered* se cambiano stato quando il voltaggio cambia da basso a alto,
 	- *falling edge triggered* se cambiano stato quando il voltaggio cambia da alto a basso.
 # tipi
-- [[master-slave latch (o flip-flop SR)]]
+- [[master-slave latch (o flip-flop SR master-slave)]]
 - [[flip-flop delay (D)]]
 - [[flip-flop (JK)]]
 - [[flip-flop toggle (T)]]

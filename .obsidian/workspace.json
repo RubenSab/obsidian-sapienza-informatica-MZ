@@ -8,34 +8,93 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e8284bbece5404c",
+            "id": "bc5055f353d60393",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
               "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           },
           {
-            "id": "28e1172dd8dc47bd",
+            "id": "ef9bd4aa26b9d267",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "progettazione di sistemi digitali/sintesi di reti sequenziali.md",
+                "file": "progettazione di sistemi digitali/tabelle inverse dei flip flop.md",
                 "mode": "preview",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "sintesi di reti sequenziali"
+              "title": "tabelle inverse dei flip flop"
+            }
+          },
+          {
+            "id": "83e8a88dc19af082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "progettazione di sistemi digitali/analisi di reti sequenziali.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "analisi di reti sequenziali"
+            }
+          },
+          {
+            "id": "2cec1ee865d36e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interdisciplinare/espressioni booleane.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "espressioni booleane"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -54,7 +113,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -66,8 +126,8 @@
             "state": {
               "type": "surfing-tab-tree",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "chrome",
+              "title": "Surfing Tab Tree"
             }
           },
           {
@@ -91,10 +151,29 @@
             }
           }
         ]
+      },
+      {
+        "id": "adb2dbe053b7b3b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e8284bbece5404c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.5094871520996
+    "width": 297.5094871520996,
+    "collapsed": true
   },
   "right": {
     "id": "26b38658cac3fe47",
@@ -110,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sintesi",
+                "query": "eccitazione",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,7 +262,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,44 +276,46 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "28e1172dd8dc47bd",
+  "active": "2cec1ee865d36e96",
   "lastOpenFiles": [
-    "progettazione di sistemi digitali/sintesi dell'addizionatore sequenziale.md",
-    "progettazione di sistemi digitali/XOR.md",
-    "progettazione di sistemi digitali/altri operatori logici.md",
-    "progettazione di sistemi digitali/NAND e NOR.md",
+    "progettazione di sistemi digitali/tabelle inverse dei flip flop.md",
+    "progettazione di sistemi digitali/analisi di reti sequenziali.md",
+    "progettazione di sistemi digitali/flip-flop delay (D).md",
+    "progettazione di sistemi digitali/flip-flop toggle (T).md",
+    "progettazione di sistemi digitali/mappa di Karnaugh.md",
+    "interdisciplinare/espressioni booleane.md",
     "progettazione di sistemi digitali/multiplexer (MUX).md",
-    "progettazione di sistemi digitali/decodificatore (DEC).md",
+    "progettazione di sistemi digitali/moduli standard.md",
     "progettazione di sistemi digitali/read only memory (ROM).md",
     "progettazione di sistemi digitali/programmable logic array (PLA).md",
+    "progettazione di sistemi digitali/demultiplexer (DEMUX).md",
+    "progettazione di sistemi digitali/codificatore (ENC).md",
+    "progettazione di sistemi digitali/decodificatore (DEC).md",
     "interdisciplinare/algebra di Boole.md",
-    "progettazione di sistemi digitali/complemento a 2 (CA2).md",
-    "progettazione di sistemi digitali/unità aritmetico logica (ALU).md",
-    "progettazione di sistemi digitali/registri.md",
-    "progettazione di sistemi digitali/ALU 2.svg",
-    "progettazione di sistemi digitali/automi a stati finiti (finite state automata) con output.md",
-    "progettazione di sistemi digitali/registri contatori.md",
-    "progettazione di sistemi digitali/moduli standard.md",
     "progettazione di sistemi digitali/sintesi di reti sequenziali.md",
-    "progettazione di sistemi digitali/comparatore (COMP).md",
+    "Tra.md",
+    "progettazione di sistemi digitali/ALU Massini.svg",
+    "progettazione di sistemi digitali/ALU.svg",
+    "progettazione di sistemi digitali/ROM.jpg",
+    "altro/piano studi progettazione.md",
+    "progettazione di sistemi digitali/ROM.svg",
+    "progettazione di sistemi digitali/minimizzazione dell'automa a stati finiti.md",
+    "progettazione di sistemi digitali/automi a stati finiti (finite state automata) con output.md",
     "progettazione di sistemi digitali/criterio di minimalità.md",
+    "progettazione di sistemi digitali/esempio di progettazione dell'automa della macchina distributrice.md",
+    "interdisciplinare/esempio di analisi di una rete sequenziale (automa contatore).md",
+    "progettazione di sistemi digitali/reti sequenziali.md",
+    "progettazione di sistemi digitali/flip-flop.md",
+    "progettazione di sistemi digitali/flip-flop (JK).md",
+    "progettazione di sistemi digitali/master-slave latch (o flip-flop SR master-slave).md",
+    "progettazione di sistemi digitali/multiplexer.svg",
+    "altro",
+    "piani di studi",
+    "progettazione di sistemi digitali/ALU 2.svg",
     "progettazione di sistemi digitali/comparatore.svg",
-    "metodi matematici per l'informatica/esempio di formula logica.md",
-    "piano di studi logica.md",
-    "metodi matematici per l'informatica/logica proposizionale.md",
-    "metodi matematici per l'informatica/esempi con situazioni reali.md",
-    "metodi matematici per l'informatica/implicazione materiale.md",
-    "metodi matematici per l'informatica/esempi di formule.md",
-    "metodi matematici per l'informatica/sintassi.md",
-    "progettazione di sistemi digitali/errori in trasmissione.md",
     "progettazione di sistemi digitali/ASCII.png",
     "progettazione di sistemi digitali/Untitled.png",
     "progettazione di sistemi digitali/Logigator_ Editor_files/control-stop.svg",
-    "progettazione di sistemi digitali/All_Bambu_Lab_3D_Printer_Compared_2048x2048.webp",
-    "caricamento seriale.svg",
-    "cariccamento seriale.svg",
-    "progettazione di sistemi digitali/caricamento seriale.svg",
-    "progettazione di sistemi digitali/caricamento con FFSR.svg",
     "progettazione di sistemi digitali/Logigator_ Editor.html",
     "progettazione di sistemi digitali/Logigator_ Editor_files/polyfills-LZBJRJJE.js",
     "progettazione di sistemi digitali/Logigator_ Editor_files/styles-OSOO62JX.css",
@@ -242,8 +324,6 @@
     "progettazione di sistemi digitali/Logigator_ Editor_files/js",
     "progettazione di sistemi digitali/Logigator_ Editor_files",
     "progettazione di sistemi digitali/rete sequenziale generica.canvas",
-    "search.py",
-    "progettazione di sistemi digitali/file_grabber.py",
-    "fondamenti di programmazione/esercizi/tmpl0118azz"
+    "search.py"
   ]
 }

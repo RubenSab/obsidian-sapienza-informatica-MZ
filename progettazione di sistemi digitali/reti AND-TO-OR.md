@@ -1,0 +1,1 @@
+è una rete che ha un livello di porte AND che confluiscono tutte in una porta OR; si progetta usando la forma SOP.

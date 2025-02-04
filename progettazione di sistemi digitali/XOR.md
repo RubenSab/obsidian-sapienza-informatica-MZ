@@ -1,3 +1,4 @@
+> *eXclusive Or* è vero solo quando un numero pari di ingressi è vero
 
 | $xy$ | $x\oplus y$ |
 | ---- | ----------- |

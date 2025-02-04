@@ -76,7 +76,7 @@ $M(E)\neq\emptyset \implies \exists min(M(E))$?
 >estremo superiore: $sup(E)=min(M((E)))$
 >estremo inferiore: $inf(E)=max(m(E)))$
 
-# # definizione (per $E\subseteq \mathbb{R}$)
+# definizione (per $E\subseteq \mathbb{R}$)
 - $\sup(E)=min(M((E)))$ se $M(E)\neq\emptyset$ o $+\infty$ se $M(E)=\emptyset$
 - $\inf(E)=max(m((E)))$ se $m(E)\neq\emptyset$ o $-\infty$ se $m(E)=\emptyset$
 - **TUTTI** i sottoinsiemi (limitati) di $\mathbb{R}$ hanno superiore e inferiore

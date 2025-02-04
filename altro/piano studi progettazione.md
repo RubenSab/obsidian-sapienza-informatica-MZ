@@ -1,0 +1,28 @@
+- rappresentazione e operazioni sull'informazione
+    - [x]  binario, conversione di basi
+    - [x]  codifiche e operazioni in ca1/ ca2 + overflow
+    - [x]  decimali + IEEE 754(add. e sott.)
+    - [x]  bit di parità
+    - [x]  esercizi
+- algebra booleana
+    - [x]  assiomi, proprietà da imparare a memoria e espressioni
+    - [x]  espressione complementare
+    - [x]  minimizzazione dei circuiti
+- reti combinatorie
+    - [x]  porte logiche
+    - [x]  diagrammi temporali
+    - [x]  sintesi e analisi di una rete combinatoria
+    - [x]  sop, pos e canonica
+    - [x]  k mappe
+    - [x]  sintesi e analisi
+    - [x]  and to or, or to and, all nor e all nand
+- circuiti sequenziali standard
+    - [x]  moduli
+    - [x]  matrici and/or
+    - [ ]  adder sequenziali
+- reti sequenziali
+    - [x]  latch e flip flop
+    - [x] sintesi
+    - [ ] analisi
+    - [x] modelli di automi
+-  registri

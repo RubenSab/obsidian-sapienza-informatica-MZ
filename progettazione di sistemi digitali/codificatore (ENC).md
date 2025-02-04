@@ -8,12 +8,12 @@ Il circuito si può rappresentare in modo più chiaro usando una *matrice di AND
 
 ## Esempio a 2 entrate
 
-| x3  | x2  | x1  | x0  | z1  | z0  |
-| --- | --- | --- | --- | --- | --- |
-| 0   | 0   | 0   | 1   | 0   | 0   |
-| 0   | 0   | 1   | 0   | 1   | 0   |
-| 0   | 1   | 0   | 0   | 0   | 1   |
-| 1   | 0   | 0   | 0   | 1   | 1   |
+| x3  | x2  | x1  | x0  |     | z1  | z0  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0   | 0   | 0   | 1   |     | 0   | 0   |
+| 0   | 0   | 1   | 0   |     | 1   | 0   |
+| 0   | 1   | 0   | 0   |     | 0   | 1   |
+| 1   | 0   | 0   | 0   |     | 1   | 1   |
 ![[encoder.svg]]
 # decodificatore non standard
 La regola che lega le entrate e le uscite è diversa, come può essere diverso anche il numero di porte di uscita in relazione a quelle di entrata.

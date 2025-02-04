@@ -98,8 +98,8 @@ B = <1;10000;0110000000>
 
 1. Moltiplicazione tra le mantisse (+1 implicito)
 
-     1,0101 *
-     1,0110 =
+     1,0101 * (4 cifre significative dopo la virgola)
+     1,0110 = (3 cifre significative dopo la virgola)
      1 0101
 -------------
     10 101
@@ -107,7 +107,7 @@ B = <1;10000;0110000000>
   0000 0
 1 0101
 -------------
-1,1100 111
+1,1100 111 (4+3 = 7 cifre significative dopo la virgola)
 
 
 2. Esponenti
@@ -118,11 +118,11 @@ eA+eB+bias = 2+1+15 = 18
 
 
 3. Normalizzazione
-l'esponente è già normalizzato
+la mantissa è già normalizzata
 
 4. Segno
 è meno
 
-A + B = <1;100110;11001111000> = 0xCB38
+A * B = <1;100110;11001111000> = 0xCB38
 
 ```

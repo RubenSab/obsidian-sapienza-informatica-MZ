@@ -36,8 +36,12 @@ $P, Q \in LP$
 > Due formule si dicono ***logicamente equivalenti*** quando tutte le implicazioni che rendono vera una rendono vera anche l'altra e viceversa.
 > $$P_{1}\equiv P_{2}$$
 
-> Se le formule $P_{1},...,P_{k}$ sono vere e allora è vera anche $Q$, si dice che $Q$ è ***conseguenza logica*** di $P_{1},...,P_{k}$.
+> Se le formule $P_{1},...,P_{k}$ (premesse) sono vere e allora è vera anche $Q$ (conclusione), si dice che $Q$ è ***conseguenza logica*** di $P_{1},...,P_{k}$.
 > $$P_{1},...,P_{k} \vDash\ Q$$
+
+> N.B.: La conseguenza logica è violata solo quando tutte le premesse sono vere, ma la conclusione è falsa.
+
+> N.B.: Se la premessa è falsa/insoddisfacibile, allora la conclusione è vera/tautologica, ciò è detto *Principio di esplosione* o *verità vacua*
 
 - [[esempi di formule]]
 - [[esempi con situazioni reali]]

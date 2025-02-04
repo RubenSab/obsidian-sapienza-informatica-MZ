@@ -1,10 +1,10 @@
 Data $f: [a, b] \rightarrow \mathbb{R}$ continua, allora $$\exists x_{m}, x_{M} \in [a, b]\ |\ m = f(x_{m}) \leq f(x) \leq f(x_{M}) = M\ \ \forall x \in [a, b]$$
-> $m$ è il minimo di $f(x)$
-> $M$ è il massimo di $f(x)$
+> $m$ è il minimo assoluto di $f(x)$
+> $M$ è il massimo assoluto di $f(x)$
 > $x_{m}$ si dice punto di minimo
 > $x_{M}$ si dice punto di massimo
 
-
+Cioè ogni valore assunto da $f(x)$ è compreso tra il suo massimo e minimo assoluto
 
 Consideriamo un $y=t$ generico. Vale che:
 $v_{m}\leq t \leq v_{M} \implies \exists c\ |\ f(c) = t$

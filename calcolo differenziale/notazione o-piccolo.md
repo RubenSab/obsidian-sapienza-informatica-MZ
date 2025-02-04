@@ -12,7 +12,7 @@ Esempi:
 - $x^{n}o(x^{k})=o(x^{n+k})$ per $x\rightarrow 0$
 
 # proprietà degli o-piccolo
-- Moltiplicazione per una costante (la costante è trasccurabile):
+- Moltiplicazione per una costante (la costante è trascurabile):
 $$o(c\bullet g(x))=o(g(x))\text{ per } x\rightarrow x_{0}$$
 $$c\bullet o(g(x))=o(g(x))\text{ per } x\rightarrow x_{0}$$
 - Potenza di una funzione (stabilità dell'$o$ all'applicazione della potenza):

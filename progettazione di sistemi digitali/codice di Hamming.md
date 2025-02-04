@@ -1,0 +1,3 @@
+>Il codice di Hamming utilizza più [[bit di parità]] per aumentare l'affidabilità della trasmissione delle informazioni, rendendole più robuste agli errori.
+
+Se si impiegano due bit di parità, essi possono essere usati in modi differenti: ad esempio, uno può verificare il numero di **bit a 1 nelle posizioni pari**, mentre l'altro può controllare **coppie specifiche di bit**, riducendo così la probabilità di errore. Un approccio simile si trova nei metodi di correzione basati su **bit di parità per righe e colonne**, utilizzati in matrici di dati per individuare e correggere errori in più direzioni.

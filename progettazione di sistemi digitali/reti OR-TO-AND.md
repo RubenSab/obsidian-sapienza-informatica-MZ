@@ -1,0 +1,1 @@
+è una rete che ha un livello di porte OR che confluiscono tutte in una porta AND; si progetta usando la forma POS.

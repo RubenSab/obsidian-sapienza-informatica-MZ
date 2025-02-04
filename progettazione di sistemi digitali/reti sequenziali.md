@@ -1,4 +1,6 @@
-> Introducono il concetto di tempo nelle reti combinatorie. Sono utili per ridurre il numero di porte di circuiti combinatori e sono fondamentali per i circuiti per la memorizzazione.
+> Sono reti che hanno una parte combinatoria e una memoria per immagazzinare bit di informazione.
+
+> Introducono il concetto di tempo e di memoria nelle reti. Sono utili per ridurre il numero di porte di circuiti combinatori e sono fondamentali per i circuiti per la memorizzazione.
 
 Esempio: in un [[addizionatore a propagazione di riporto (ripple carry adder)]], ogni [[full adder (FA)]] si attiverà solo ad un determinato momento, perché ognuno dovrà aspettare che il precedente si attivi.
 

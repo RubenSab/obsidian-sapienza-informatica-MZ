@@ -14,6 +14,6 @@ Si ottimizza un circuito codificando la sequenza delle sue porte logiche in un'e
 - scrivere un'espressione booleana di ogni uscita
 - compilare la tavola di verità
 - fare la descrizione verbale del funzionamento del circuito
-- caratterizzare le condizioni che danno uscita 1 (attivare qualcosa)
+- caratterizzare le condizioni che danno uscita 1 (attivare qualcosa) (se ci sono più uscite 1 usare SOP, se ci sono più uscite 0 usare POS).
 - ottenere le espressioni minimali tramite K mappe
 - confrontare il circuito ottenuto con il circuito originale.

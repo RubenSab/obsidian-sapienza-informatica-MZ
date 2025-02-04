@@ -1,9 +1,0 @@
-- rappresentazione e operazioni sull'informazione
-	- codifiche e operazioni
-- reti combinatorie
-	- sintesi e analisi di una rete combinatoria
-	- moduli
-- reti sequenziali
-	- latch e flip flop
-	- sintesi e analisi di una rete sequenziali + modelli di automi
-	- registri

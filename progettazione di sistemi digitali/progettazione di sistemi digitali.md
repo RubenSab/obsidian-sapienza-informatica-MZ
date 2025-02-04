@@ -9,5 +9,5 @@ libro consigliato: **Reti logiche** M. Morris Mano, C. R. Kime, T. Martin, Pears
 [[definizione di computer, architettura di von neumann]]
 
 - [[rappresentazione dell'informazione]]
-- [[algebra delle porte logiche come interpretazione dell'algebra di Boole|reti combinatorie]] e [[moduli standard]]
+- [[algebra delle porte logiche|reti combinatorie]] e [[moduli standard]]
 - [[reti sequenziali]]

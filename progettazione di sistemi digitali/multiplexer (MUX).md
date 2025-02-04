@@ -4,12 +4,14 @@
 
 Viene prodotto con una serie di [[AND gate con funzione di controllo]], in cui le linee di ingresso sono il segnale da selezionare, e le linee di selezione le selezionano.
 
-> Espressione booleana: $a\overline{c_{1}}\overline{c_{0}} + b\overline{c_{1}}c_{0} + c c_{1} \overline{c_{0}} + d c_{1} c_{0}$
+> Espressione booleana: $x_{3}s_{3}+x_{2}s_{2}+x_{1}s_{1}+x_{0}s_{0}$
 
 ![[multiplexer.svg]]
 # multiplexer con [[decodificatore (DEC)]]
 
 > Riceve $n$ linee in ingresso e $\log_{2}{n}$ linee di selezione (di cui una sola vale 1) che scelgono il segnale da mandare in output in base al suo indice (esempio: selezione = 10 -> output = valore dell'ingresso numero 2), e in output ritorna la linea di ingresso scelta dalle linee di selezione.
+
+> Espressione booleana: $x_{3}\overline{c_{1}}\cdot\overline{c_{0}}+x_{2}\overline{c_{1}}\cdot{c_{0}}+x_{1}{c_{1}}\cdot\overline{c_{0}}+x_{0}{c_{1}}\cdot{c_{0}}$
 
 ![[multiplexer_con_decodificatore.svg]]
 
@@ -20,7 +22,7 @@ abc f      _______
 000 0    0-|     |
 001 1    1-|     |
 010 0    0-|     |
-111 0    0-| mux |--> f
+011 0    0-| mux |--> f
 100 0    0-|     |
 101 1    1-|     |
 110 1    1-|     |
@@ -35,7 +37,7 @@ abc f          _______
 000 0        c-|     |
 001 1        0-| mux |--> f
 010 0        c-|     |
-111 0   not(c)-|_____|
+011 0   not(c)-|_____|
 100 0            ^ ^
 101 1            a b
 110 1
@@ -44,10 +46,10 @@ abc f          _______
 Semplificando ancora:
 ```
 abc f             _______
-000 0    not(b)  -|     |
+000 0   not(b)*c -|     |
 001 1    b xor c -| mux |--> f
 010 0             |_____|
-111 0                ^
+011 0                ^
 100 0                a
 101 1
 110 1
@@ -72,7 +74,7 @@ abc f             _______
 000 0         ab -|     |
 001 1     not(b) -| mux |--> f
 010 0             |_____|
-111 0                ^
+011 0                ^
 100 0                c
 101 1
 110 1
@@ -86,7 +88,7 @@ abc f
 000 0
 001 1
 010 0
-111 0
+011 0
 --- -
 100 0
 101 1

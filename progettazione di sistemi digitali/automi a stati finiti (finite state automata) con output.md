@@ -1,9 +1,9 @@
 # modello di Mealy
-secondo il modello di Mealy, l'automag a stati finiti è la struttura matematica che ha:
+secondo il modello di Mealy, l'automa a stati finiti è la struttura matematica che ha:
 
 - $\Sigma$: un'alfabeto finito di ingresso in cui sono scritti gli input
 - $Q$: un'insieme finito di stati che può assumere la memoria (rappresentati nel diagramma dal contenuto dei cerchi)
-- $\delta$: è la ***[[funzione]] di transizione*** $\delta: \Sigma \times Q \rightarrow Q$ (rappresentate nel diagramma come gli archi tra i cerchi). Il suo dominio è $\Sigma \times Q$ e il suo dominio è $Q$.
+- $\delta$: è la ***[[funzione]] di transizione*** $\delta: \Sigma \times Q \rightarrow Q$ (rappresentate nel diagramma come gli archi tra i cerchi). Il suo dominio è $\Sigma \times Q$ e il suo codominio è $Q$.
 Esempio: (0, 01) -> 01
 
 - $U$ è l'alfabeto finito di uscita

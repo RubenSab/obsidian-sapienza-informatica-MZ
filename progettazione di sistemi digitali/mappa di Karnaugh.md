@@ -42,6 +42,9 @@ diventa
 | 10   | 0   | 1   |
 | 11   | 0   | 0   |
 Volendo scrivere una SOP, cerchiamo gli 1 adiacenti in gruppi da 2, 4 o 8: 010 con 011 e 011 con 111. Questi sono gli ***implicanti***.
+
+> Un ***implicante*** è un insieme di mintermini/maxtermini che posso esprimere in forma minima.  
+
 L'espressione corrispondente per l'implicante 010 - 011 è $\overline{a} b$, perché 010 e 011 hanno:
 - $a=0$ in comune $\implies \overline{a}$
 - $b=1$ in comune $\implies b$
@@ -54,21 +57,21 @@ L'espressione corrispondente per l'implicante 011 - 111 è $bc$, perché 011 e 1
 
 L'espressione SOP corrispondente alla K-mappa è $\overline{a}b + bc$
 
-# come ricavare le espressioni POS
-Ricapitolando, le regole per ricavare l'espressione POS sono:
-- $x=0$ in comune $\implies \overline x$
+# come ricavare le espressioni SOP
+
+Per ogni **riga della tavola della verità in cui l'output è 1** (mintermini), per ogni variabile in input:
+- $x=0$ in comune $\implies \overline{x}$
 - $x=1$ in comune $\implies x$
 - $x=0$ e $x=1$ non in comune $\implies$ non scrivere $x$
 
-Infine sommare tutti i maxtermini.
-# come ricavare le espressioni SOP
-
-Invece, le regole per ricavare l'espressione SOP sono:
+Infine sommare tutti i mintermini.
+# come ricavare le espressioni POS
+Per ogni **riga della tavola della verità in cui l'output è 0** (maxtermini), per ogni variabile in input:
 - $x=0$ in comune $\implies x$
-- $x=1$ in comune $\implies \overline x$
+- $x=1$ in comune $\implies \overline{x}$
 - $x=0$ e $x=1$ non in comune $\implies$ non scrivere $x$
 
-Infine sommare tutti i mintermini.
+Infine moltiplicare tutti i maxtermini.
 # implicanti
 > Si definisce un implicante un insieme di 2, 4 o 8 mintermini / maxtermini che posso esprimere in forma minima. Se un uno o zero non può essere raggruppato e sta da solo, allora è un implicante degenere e verrà rappresentato da una somma / un prodotto di tutti i letterali complementati o meno.
 

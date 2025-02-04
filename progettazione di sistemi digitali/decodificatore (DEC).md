@@ -8,12 +8,12 @@ Il circuito si può rappresentare in modo più chiaro usando una *matrice di OR*
 
 ## Esempio a 2 entrate
 
-| a   | b   | y3  | y2  | y1  | y0  |
-| --- | --- | --- | --- | --- | --- |
-| 0   | 0   | 0   | 0   | 0   | 1   |
-| 0   | 1   | 0   | 0   | 1   | 0   |
-| 1   | 0   | 0   | 1   | 0   | 0   |
-| 1   | 1   | 1   | 0   | 0   | 0   |
+| a   | b   |     | y3  | y2  | y1  | y0  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0   | 0   |     | 0   | 0   | 0   | 1   |
+| 0   | 1   |     | 0   | 0   | 1   | 0   |
+| 1   | 0   |     | 0   | 1   | 0   | 0   |
+| 1   | 1   |     | 1   | 0   | 0   | 0   |
 ![[decoder.svg]]
 
 # decodificatore non standard

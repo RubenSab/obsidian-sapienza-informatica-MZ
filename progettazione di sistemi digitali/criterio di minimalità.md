@@ -1,5 +1,8 @@
 # per le [[ottimizzazione delle reti combinatorie|reti]]
-Una rete AND-TO-OR ( o OR-TO-AND) è minimale se tra tutte le reti possibili AND-TO-OR (o OR-TO-AND) ha:
+
+> La **complessità** di una rete combinatoria è proporzionale al numero di porte (che anche dipende dal numero di ingressi (**fan-in**) in ogni porta, se il circuito è dotato di porte a più ingressi) e al tempo di attraversamento del circuito.
+
+le [[reti AND-TO-OR]] ( o [[reti OR-TO-AND|OR-TO-AND]]) sono minimali se tra tutte le reti possibili AND-TO-OR (o OR-TO-AND) ha:
 - il minimo numero di porte AND (o OR)
 - il minimo numero di ingressi per ogni porta
 # per le [[espressioni booleane]]

@@ -1,12 +1,12 @@
-# da SOP a POS
+# SOP e POS
 $f=(\overline a + c)\overline{(a+b)}+c$
 - trasformare $\overline{(a+b)}$ in forma normale SOP con De Morgan in modo che la complementazione sia su una sola variabile.
-$f=(\overline a + c)(\overline a+ \overline b)+c$
+$f=(\overline a + c)(\overline a \overline b)+c$
 - applichiamo la proprietà distributiva
 $f=\overline a \overline a \overline b + \overline a \overline b c+ c$
 - idempotenza + assorbimento
-$f=\overline a \overline b + c$
-- in forma normale SOP
+$f=\overline a \overline b + c$ (SOP)
+- in forma normale POS
 $f=\overline a \overline b + c = (\overline a + c)(\overline b + c)$
 
 # calcolo della forma SOP della duale
@@ -29,7 +29,7 @@ $\tilde f=(\overline a c)+\overline b c$
 | 6.     | 110   | 0   | 0          |
 | 7.     | 111   | 1   | 0          |
 ## canonica SOP
-$f=\overline a \overline b\overline c + \overline a \overline b c + \overline a b c + \overline a + \overline a b c + a \overline b c + abc$ (guardo dove $f=1$) $= OR(m_{0}, m_{1}, m_{3}, m_{5}, m_{7})$
+$f=\overline a \overline b\overline c + \overline a \overline b c + \overline a b c + \overline a b c + a \overline b c + abc$ (guardo dove $f=1$) $= OR(m_{0}, m_{1}, m_{3}, m_{5}, m_{7})$
 ## canonica POS
 $f=(a + \overline b + c)(\overline a + b + c)(\overline a + \overline b + c)=AND(M_2,M_4,M_6)$
 ## dalla canonica SOP alla forma normale SOP

@@ -1,18 +1,18 @@
-
-| $f(x)$        | $f'(x)$                     |
-| ------------- | --------------------------- |
-| $k$           | $0$                         |
-| $x^n$         | $nx^{n-1}$                  |
-| $\sqrt{x}$    | $\frac{1}{2\sqrt{2}}$       |
-| $e^x$         | $e^x$                       |
-| $a^x$         | $a^x\bullet \ln{a}$         |
-| $\ln{x}$      | $\frac{1}{x}$               |
-| $\log_{a}{x}$ | $\frac{1}{x\bullet \ln{a}}$ |
-| $\sin{x}$     | $\cos{x}$                   |
-| $\cos{x}$     | $-\sin{x}$                  |
-| $\tan{x}$     | $\frac{1}{\cos^{2}{x}}$     |
-| $\cot{x}$     | $\frac{1}{\sin^{2}{x}}$     |
-| $\arcsin{x}$  | $\frac{1}{\sqrt{1-x^{2}}}$  |
-| $\arccos{x}$  | $-\frac{1}{\sqrt{1-x^{2}}}$ |
-| $\arctan{x}$  | $\frac{1}{1+x^{2}}$         |
-| $arc\cot{x}$  | $-\frac{1}{1+x^{2}}$        |
+- $\frac{d}{dx} (c) = 0$, dove $c$ è una costante.
+- $\frac{d}{dx} \left( x^n \right) = n x^{n-1}$  
+- $\frac{d}{dx} \left( \sin x \right) = \cos x$  
+- $\frac{d}{dx} \left( \cos x \right) = -\sin x$  
+- $\frac{d}{dx} \left( \tan x \right) = \sec^2 x$
+- $\frac{d}{dx}(\cot{x})=\frac{1}{\sin^2{x}}$
+- $\frac{d}{dx} \left( \arcsin x \right) = \frac{1}{\sqrt{1 - x^2}}$  
+- $\frac{d}{dx} \left( \arccos x \right) = -\frac{1}{\sqrt{1 - x^2}}$  
+- $\frac{d}{dx} \left( \arctan x \right) = \frac{1}{1 + x^2}$
+- $\frac{d}{dx} \left(arccot\ x \right) = -\frac{1}{1 + x^2}$
+- $\frac{d}{dx} \left( e^x \right) = e^x$
+- $\frac{d}{dx} \left( a^x \right) = a^x \cdot \ln a$, dove $a$ è una costante positiva.
+- $\frac{d}{dx} \left( \ln x \right) = \frac{1}{x}$, per $x > 0$.
+- $\frac{d}{dx} \left( \ln(1 + x) \right) = \frac{1}{1 + x}$
+- $\frac{d}{dx} \left( \log_{b}x \right) = \frac{1}{x}\bullet \log_{a}{e}$ oppure $\frac{1}{x\bullet \ln{a}}$
+- $\frac{d}{dx} \left( \sqrt{x} \right) = \frac{1}{2\sqrt{x}}$  
+- $\frac{d}{dx} \left( (1 + x)^a \right) = a (1 + x)^{a-1}$  
+- $\frac{d}{dx} \left( \frac{1}{x} \right) = -\frac{1}{x^2}$  
